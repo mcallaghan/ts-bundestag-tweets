@@ -1,0 +1,392 @@
+,author_id,count,sum,prop,Nachname,Vorname,Fraktion,Twitter-Name,region,"Name, Vorname",Vorname Nachname,handle,party,parltype,person__in_parlperiod,lcasehandle
+0,4121053541,20,3,0.15,Jongen,Marc,,,Bund,"Jongen, Marc",,Marc_Jongen,afd,Bund,[19],marc_jongen
+1,2758602415,7,1,0.14285714285714285,Schweiger,Torsten,,,Bund,"Schweiger, Torsten",,cdu_schweiger,cducsu,Bund,[19],cdu_schweiger
+2,146376562,48,3,0.0625,Koeppen,Jens,,,Bund,"Koeppen, Jens",,JensKoeppen,cducsu,Bund,"[16, 17, 18, 19]",jenskoeppen
+3,728990858,113,6,0.05309734513274336,Schimke,Jana,,,Bund,"Schimke, Jana",,JanaSchimke,cducsu,Bund,"[18, 19]",janaschimke
+4,569257486,136,6,0.04411764705882353,Beermann,Maik,,,Bund,"Beermann, Maik",,MaikBeermann,cducsu,Bund,"[18, 19]",maikbeermann
+5,1490376331,79,3,0.0379746835443038,Pasemann,Frank,,,Bund,"Pasemann, Frank",,Frank_Pasemann,afd,Bund,[19],frank_pasemann
+6,3408940048,90,3,0.03333333333333333,Nolte,Jan Ralf,,,Bund,"Nolte, Jan Ralf",,Jan_Nolte_AfD,afd,Bund,[19],jan_nolte_afd
+7,805308596,293,9,0.030716723549488054,Storch,Beatrix,,,Bund,"Storch, Beatrix",,Beatrix_vStorch,afd,Bund,[19],beatrix_vstorch
+8,37642893,221,6,0.027149321266968326,Hirte,Christian,,,Bund,"Hirte, Christian",,ChristianHirte,cducsu,Bund,"[16, 17, 18, 19]",christianhirte
+9,17363943,374,10,0.026737967914438502,Schauws,Ulle,,,Bund,"Schauws, Ulle",,ulle_schauws,gruene,Bund,"[18, 19]",ulle_schauws
+10,569832889,75,2,0.02666666666666667,Gabriel,Sigmar,,,Bund,"Gabriel, Sigmar",,sigmargabriel,spd,Bund,"[16, 17, 18, 19]",sigmargabriel
+11,809895794,1237,31,0.025060630557801132,Frömming,Götz,,,Bund,"Frömming, Götz",,GtzFrmming,afd,Bund,[19],gtzfrmming
+12,4875914470,40,1,0.025,Lucassen,Rüdiger,,,Bund,"Lucassen, Rüdiger",,MdB_Lucassen,afd,Bund,[19],mdb_lucassen
+13,862747349277450240,43,1,0.023255813953488372,Abercron,Michael,,,Bund,"Abercron, Michael",,mvabercron,cducsu,Bund,[19],mvabercron
+14,17561226,507,11,0.021696252465483234,Herbst,Torsten,,,Bund,"Herbst, Torsten",,torstenherbst,fdp,Bund,[19],torstenherbst
+15,403735368,382,8,0.020942408376963352,Hahn,Florian,,,Bund,"Hahn, Florian",,hahnflo,cducsu,Bund,"[17, 18, 19]",hahnflo
+16,368334555,53,1,0.018867924528301886,Schnieder,Patrick,,,Bund,"Schnieder, Patrick",,PSchnieder,cducsu,Bund,"[17, 18, 19]",pschnieder
+17,917756296555892736,700,13,0.018571428571428572,Braun,Jürgen,,,Bund,"Braun, Jürgen",,JuergenBraunAfD,afd,Bund,[19],juergenbraunafd
+18,21618829,164,3,0.018292682926829267,Ortleb,Josephine,,,Bund,"Ortleb, Josephine",,josephineortleb,spd,Bund,[19],josephineortleb
+19,2545743991,1012,17,0.016798418972332016,Reichardt,Martin,,,Bund,"Reichardt, Martin",,M_Reichardt_AfD,afd,Bund,[19],m_reichardt_afd
+20,741532130,1061,15,0.01413760603204524,Post,Florian,,,Bund,"Post, Florian",,FlorianPost,spd,Bund,"[18, 19]",florianpost
+21,2496104640,289,4,0.01384083044982699,Peterka,Tobias Matthias,,,Bund,"Peterka, Tobias Matthias",,TobiasMPeterka,afd,Bund,[19],tobiasmpeterka
+22,738731811380076544,73,1,0.0136986301369863,Juratovic,Josip,,,Bund,"Juratovic, Josip",,josip_juratovic,spd,Bund,"[16, 17, 18, 19]",josip_juratovic
+23,916324637046435840,239,3,0.012552301255230125,Friesen,Anton,,,Bund,"Friesen, Anton",,DrFriesenMdB,afd,Bund,[19],drfriesenmdb
+24,454981027,177,2,0.011299435028248588,Lindh,Helge,,,Bund,"Lindh, Helge",,helgelindh,spd,Bund,[19],helgelindh
+25,2618890032,177,2,0.011299435028248588,Mrosek,Andreas,,,Bund,"Mrosek, Andreas",,mrosek1958,afd,Bund,[19],mrosek1958
+26,193629792,191,2,0.010471204188481676,Kofler,Bärbel,,,Bund,"Kofler, Bärbel",,BaerbelKofler,spd,Bund,"[15, 16, 17, 18, 19]",baerbelkofler
+27,930725836482928640,193,2,0.010362694300518135,Schmidt,Stefan,,,Bund,"Schmidt, Stefan",,Schmidt_MdB,gruene,Bund,[19],schmidt_mdb
+28,882929865535705088,100,1,0.01,Brunner,Karl-Heinz,,,Bund,"Brunner, Karl-Heinz",,BrunnerGanzOhr,spd,Bund,"[18, 19]",brunnerganzohr
+29,3105025175,401,4,0.00997506234413965,Höchst,Nicole,,,Bund,"Höchst, Nicole",,Nicole_Hoechst,afd,Bund,[19],nicole_hoechst
+30,944181149424898048,212,2,0.009433962264150943,Jacobi,Fabian,,,Bund,"Jacobi, Fabian",,Jacobi_AfD,afd,Bund,[19],jacobi_afd
+31,833398209053605888,223,2,0.008968609865470852,Weidel,Alice,,,Bund,"Weidel, Alice",,Alice_Weidel,afd,Bund,[19],alice_weidel
+32,17960911,115,1,0.008695652173913044,Müller,Stefan,,,Bund,"Müller, Stefan",,smuellermdb,cducsu,Bund,"[15, 16, 17, 18, 19]",smuellermdb
+33,866924100,355,3,0.008450704225352112,Schielke-Ziesing,Ulrike,,,Bund,"Schielke-Ziesing, Ulrike",,ulschzi,afd,Bund,[19],ulschzi
+34,39938182,245,2,0.00816326530612245,Schipanski,Tankred,,,Bund,"Schipanski, Tankred",,TSchipanski,cducsu,Bund,"[17, 18, 19]",tschipanski
+35,17752770,1027,8,0.007789678675754625,Notz,Konstantin,,,Bund,"Notz, Konstantin",,KonstantinNotz,gruene,Bund,"[17, 18, 19]",konstantinnotz
+36,797137333820784640,132,1,0.007575757575757576,Chrupalla,Tino,,,Bund,"Chrupalla, Tino",,Tino_Chrupalla,afd,Bund,[19],tino_chrupalla
+37,587862375,564,4,0.0070921985815602835,Bayram,Canan,,,Bund,"Bayram, Canan",,LieblingXhain,gruene,Bund,[19],lieblingxhain
+38,2546790747,577,4,0.006932409012131715,Kamann,Uwe,,,Bund,"Kamann, Uwe",,uwe_kamann,afd,Bund,[19],uwe_kamann
+39,1158585210,3480,24,0.006896551724137931,Hauer,Matthias,,,Bund,"Hauer, Matthias",,MatthiasHauer,cducsu,Bund,"[18, 19]",matthiashauer
+40,866425075,467,3,0.006423982869379015,Gohlke,Nicole,,,Bund,"Gohlke, Nicole",,NicoleGohlke,linke,Bund,"[17, 18, 19]",nicolegohlke
+41,426403057,167,1,0.005988023952095809,Buchholz,Christine,,,Bund,"Buchholz, Christine",,ch_buchholz,linke,Bund,"[17, 18, 19]",ch_buchholz
+42,467381196,518,3,0.005791505791505791,Leikert,Katja,,,Bund,"Leikert, Katja",,KLeikert,cducsu,Bund,"[18, 19]",kleikert
+43,713361366858481664,2510,14,0.005577689243027889,Brandner,Stephan,,,Bund,"Brandner, Stephan",,StBrandner,afd,Bund,[19],stbrandner
+44,47375691,182,1,0.005494505494505495,Wagenknecht,Sahra,,,Bund,"Wagenknecht, Sahra",,SWagenknecht,linke,Bund,"[17, 18, 19]",swagenknecht
+45,21144568,1674,9,0.005376344086021506,Luksic,Oliver,,,Bund,"Luksic, Oliver",,OlliLuksic,fdp,Bund,"[17, 19]",olliluksic
+46,805823950253150208,186,1,0.005376344086021506,Bernhard,Marc,,,Bund,"Bernhard, Marc",,MarcBernhardAfD,afd,Bund,[19],marcbernhardafd
+47,176104376,193,1,0.0051813471502590676,Barrientos,Simone,,,Bund,"Barrientos, Simone",,SBarrientosK,linke,Bund,[19],sbarrientosk
+48,20840049,197,1,0.005076142131979695,Strengmann-Kuhn,Wolfgang,,,Bund,"Strengmann-Kuhn, Wolfgang",,W_SK,gruene,Bund,"[16, 17, 18, 19]",w_sk
+49,935456332655874048,605,3,0.0049586776859504135,Ullrich,Gerald,,,Bund,"Ullrich, Gerald",,G_UllrichFDP,fdp,Bund,[19],g_ullrichfdp
+50,22908417,624,3,0.004807692307692308,Luczak,Jan-Marco,,,Bund,"Luczak, Jan-Marco",,JM_Luczak,cducsu,Bund,"[19, 17, 18]",jm_luczak
+51,2527808433,210,1,0.004761904761904762,Nastic,Zaklin,,,Bund,"Nastic, Zaklin",,ZaklinNastic,linke,Bund,[19],zaklinnastic
+52,110385973,215,1,0.004651162790697674,Sorge,Tino,,,Bund,"Sorge, Tino",,TinoSorge,cducsu,Bund,"[18, 19]",tinosorge
+53,22260144,439,2,0.004555808656036446,Tauber,Peter,,,Bund,"Tauber, Peter",,petertauber,cducsu,Bund,"[17, 18, 19]",petertauber
+54,21287514,878,4,0.004555808656036446,Vogler,Kathrin,,,Bund,"Vogler, Kathrin",,voglerk,linke,Bund,"[17, 18, 19]",voglerk
+55,122104353,461,2,0.004338394793926247,Lindner,Christian,,,Bund,"Lindner, Christian",,c_lindner,fdp,Bund,"[17, 19]",c_lindner
+56,1114675538,990,4,0.00404040404040404,Roth,Michael,,,Bund,"Roth, Michael",,MiRo_SPD,spd,Bund,"[14, 15, 16, 17, 18, 19]",miro_spd
+57,42401449,515,2,0.003883495145631068,Annen,Niels,,,Bund,"Annen, Niels",,NielsAnnen,spd,Bund,"[16, 18, 19]",nielsannen
+58,849060114388705280,259,1,0.003861003861003861,Hemmelgarn,Udo Theodor,,,Bund,"Hemmelgarn, Udo Theodor",,UdoHemmelgarn,afd,Bund,[19],udohemmelgarn
+59,4819478705,271,1,0.0036900369003690036,Achelwilm,Doris,,,Bund,"Achelwilm, Doris",,DorisAchelwilm,linke,Bund,[19],dorisachelwilm
+60,17535941,277,1,0.0036101083032490976,Dürr,Christian,,,Bund,"Dürr, Christian",,christianduerr,fdp,Bund,[19],christianduerr
+61,1143130812,278,1,0.0035971223021582736,Kühn,Christian,,,Bund,"Kühn, Christian",,ChrisKuehn_mdb,gruene,Bund,"[18, 19]",chriskuehn_mdb
+62,3930477322,280,1,0.0035714285714285713,Korkmaz,Elvan,,,Bund,"Korkmaz, Elvan",,KorkmazGT,spd,Bund,[19],korkmazgt
+63,494809842,591,2,0.00338409475465313,Gremmels,Timon,,,Bund,"Gremmels, Timon",,Timon_Gremmels,spd,Bund,[19],timon_gremmels
+64,136266976,5058,17,0.003361012257809411,Beutin,Lorenz Gösta,,,Bund,"Beutin, Lorenz Gösta",,lgbeutin,linke,Bund,[19],lgbeutin
+65,49450039,298,1,0.003355704697986577,Nick,Andreas,,,Bund,"Nick, Andreas",,DrAndreasNick,cducsu,Bund,"[18, 19]",drandreasnick
+66,2320519958,617,2,0.0032414910858995136,Bartsch,Dietmar,,,Bund,"Bartsch, Dietmar",,DietmarBartsch,linke,Bund,"[14, 16, 17, 18, 19]",dietmarbartsch
+67,4097559143,620,2,0.0032258064516129032,Barley,Katarina,,,Bund,"Barley, Katarina",,katarinabarley,spd,Bund,"[18, 19]",katarinabarley
+68,143882918,632,2,0.0031645569620253164,Sommer,Helin Evrim,,,Bund,"Sommer, Helin Evrim",,HESommer,linke,Bund,[19],hesommer
+69,21197524,327,1,0.0030581039755351682,Lindner,Tobias,,,Bund,"Lindner, Tobias",,tobiaslindner,gruene,Bund,"[17, 18, 19]",tobiaslindner
+70,1065899292,1653,5,0.0030248033877797943,Liebich,Stefan,,,Bund,"Liebich, Stefan",,berlinliebich,linke,Bund,"[17, 18, 19]",berlinliebich
+71,172269309,343,1,0.0029154518950437317,Brugger,Agnieszka,,,Bund,"Brugger, Agnieszka",,agnieszka_mdb,gruene,Bund,"[17, 18, 19]",agnieszka_mdb
+72,39999872,349,1,0.0028653295128939827,Wegner,Kai,,,Bund,"Wegner, Kai",,kaiwegner,cducsu,Bund,"[16, 17, 18, 19]",kaiwegner
+73,849012308,373,1,0.002680965147453083,Riexinger,Bernd,,,Bund,"Riexinger, Bernd",,b_riexinger,linke,Bund,[19],b_riexinger
+74,277006619,1504,4,0.0026595744680851063,Steineke,Sebastian,,,Bund,"Steineke, Sebastian",,SteinekeCDU,cducsu,Bund,"[18, 19]",steinekecdu
+75,1543429536,384,1,0.0026041666666666665,Brandt,Michel,,,Bund,"Brandt, Michel",,michel_brandt_,linke,Bund,[19],michel_brandt_
+76,15686106,398,1,0.002512562814070352,Höhn,Matthias,,,Bund,"Höhn, Matthias",,MatthiasHoehn,linke,Bund,[19],matthiashoehn
+77,17870195,809,2,0.002472187886279357,Schulz-Asche,Kordula,,,Bund,"Schulz-Asche, Kordula",,K_SA,gruene,Bund,"[18, 19]",k_sa
+78,748453543632330752,407,1,0.002457002457002457,Breymaier,Leni,,,Bund,"Breymaier, Leni",,LeniBreymaier,spd,Bund,[19],lenibreymaier
+79,810957560723505152,419,1,0.002386634844868735,Bystron,Petr,,,Bund,"Bystron, Petr",,PetrBystronAfD,afd,Bund,[19],petrbystronafd
+80,15722010,422,1,0.002369668246445498,Dröge,Katharina,,,Bund,"Dröge, Katharina",,katdro,gruene,Bund,"[18, 19]",katdro
+81,1296544153,902,2,0.0022172949002217295,Sattelberger,Thomas,,,Bund,"Sattelberger, Thomas",,th_sattelberger,fdp,Bund,[19],th_sattelberger
+82,110368456,1353,3,0.0022172949002217295,Gehring,Kai,,,Bund,"Gehring, Kai",,KaiGehring,gruene,Bund,"[16, 17, 18, 19]",kaigehring
+83,111054843,3241,7,0.0021598272138228943,Movassat,Niema,,,Bund,"Movassat, Niema",,NiemaMovassat,linke,Bund,"[17, 18, 19]",niemamovassat
+84,475275997,1038,2,0.0019267822736030828,Kuhle,Konstantin,,,Bund,"Kuhle, Konstantin",,KonstantinKuhle,fdp,Bund,[19],konstantinkuhle
+85,841412635270762496,522,1,0.0019157088122605363,Weyel,Harald,,,Bund,"Weyel, Harald",,h_weyel,afd,Bund,[19],h_weyel
+86,17462171,567,1,0.001763668430335097,Toncar,Florian,,,Bund,"Toncar, Florian",,florian_toncar,fdp,Bund,"[16, 17, 19]",florian_toncar
+87,937403112,597,1,0.0016750418760469012,Müller,Claudia,,,Bund,"Müller, Claudia",,GruenClaudia,gruene,Bund,[19],gruenclaudia
+88,1425265488,2413,4,0.0016576875259013675,Künast,Renate,,,Bund,"Künast, Renate",,RenateKuenast,gruene,Bund,"[15, 16, 17, 18, 19]",renatekuenast
+89,32323724,607,1,0.0016474464579901153,Brantner,Franziska,,,Bund,"Brantner, Franziska",,fbrantner,gruene,Bund,"[18, 19]",fbrantner
+90,19108766,620,1,0.0016129032258064516,Özdemir,Cem,,,Bund,"Özdemir, Cem",,cem_oezdemir,gruene,Bund,"[13, 14, 18, 19]",cem_oezdemir
+91,2430137675,714,1,0.0014005602240896359,Wendt,Marian,,,Bund,"Wendt, Marian",,MdbWendt,cducsu,Bund,"[18, 19]",mdbwendt
+92,1131092102,1522,2,0.001314060446780552,Haßelmann,Britta,,,Bund,"Haßelmann, Britta",,BriHasselmann,gruene,Bund,"[16, 17, 18, 19]",brihasselmann
+93,485751594,781,1,0.0012804097311139564,Trittin,Jürgen,,,Bund,"Trittin, Jürgen",,JTrittin,gruene,Bund,"[14, 15, 16, 17, 18, 19]",jtrittin
+94,51752254,791,1,0.0012642225031605564,Kaufmann,Stefan,,,Bund,"Kaufmann, Stefan",,StefanKaufmann,cducsu,Bund,"[17, 18, 19]",stefankaufmann
+95,16557497,2399,3,0.0012505210504376823,Domscheit-Berg,Anke,,,Bund,"Domscheit-Berg, Anke",,anked,linke,Bund,[19],anked
+96,932931561015730176,4197,5,0.0011913271384322134,Mieruch,Mario,,,Bund,"Mieruch, Mario",,MieruchMario,afd,Bund,[19],mieruchmario
+97,569166756,876,1,0.001141552511415525,Paus,Lisa,,,Bund,"Paus, Lisa",,lisapaus,gruene,Bund,"[17, 18, 19]",lisapaus
+98,422569574,1794,2,0.0011148272017837235,Föst,Daniel,,,Bund,"Föst, Daniel",,DFoest,fdp,Bund,[19],dfoest
+99,16361044,1036,1,0.0009652509652509653,Wanderwitz,Marco,,,Bund,"Wanderwitz, Marco",,wanderwitz,cducsu,Bund,"[15, 16, 17, 18, 19]",wanderwitz
+100,28066013,1103,1,0.0009066183136899365,Kipping,Katja,,,Bund,"Kipping, Katja",,katjakipping,linke,Bund,"[16, 17, 18, 19]",katjakipping
+101,149299258,1116,1,0.0008960573476702509,Lambsdorff,Alexander,,,Bund,"Lambsdorff, Alexander",,Lambsdorff,fdp,Bund,[19],lambsdorff
+102,52024480,2563,2,0.0007803355442840422,Janecek,Dieter,,,Bund,"Janecek, Dieter",,DJanecek,gruene,Bund,"[18, 19]",djanecek
+103,1423622834,1302,1,0.0007680491551459293,Esken,Saskia,,,Bund,"Esken, Saskia",,EskenSaskia,spd,Bund,"[18, 19]",eskensaskia
+104,2805274855,3231,2,0.0006190034045187249,Felgentreu,Fritz,,,Bund,"Felgentreu, Fritz",,fritzfelgentreu,spd,Bund,"[18, 19]",fritzfelgentreu
+105,52119203,1717,1,0.0005824111822947001,Bülow,Marco,,,Bund,"Bülow, Marco",,marcobuelow,spd,Bund,"[15, 16, 17, 18, 19]",marcobuelow
+106,14784765,5483,2,0.0003647638154295094,De Masi,Fabio,,,Bund,"De Masi, Fabio",,FabioDeMasi,linke,Bund,[19],fabiodemasi
+107,2357675876,94,0,0.0,Holtz,Ottmar,,,Bund,"Holtz, Ottmar",,OWvonHoltz,gruene,Bund,[19],owvonholtz
+108,2373251115,3,0,0.0,Müller-Böhm,Roman,,,Bund,"Müller-Böhm, Roman",,muellerboehm,fdp,Bund,[19],muellerboehm
+109,2617281050,20,0,0.0,Binding,Lothar,,,Bund,"Binding, Lothar",,Lothar_Binding,spd,Bund,"[14, 15, 16, 17, 18, 19]",lothar_binding
+110,1421571306,409,0,0.0,Nord,Thomas,,,Bund,"Nord, Thomas",,NordMdb,linke,Bund,"[17, 18, 19]",nordmdb
+111,1399764944,127,0,0.0,Özdemir,Mahmut,,,Bund,"Özdemir, Mahmut",,oezdemir_spd,spd,Bund,"[18, 19]",oezdemir_spd
+112,2797812265,784,0,0.0,Bareiß,Thomas,,,Bund,"Bareiß, Thomas",,Thomas_Bareiss,cducsu,Bund,"[16, 17, 18, 19]",thomas_bareiss
+113,1370491088,42,0,0.0,Hauptmann,Mark,,,Bund,"Hauptmann, Mark",,MarkHauptmann,cducsu,Bund,"[18, 19]",markhauptmann
+114,2814949590,1,0,0.0,Groß,Michael,,,Bund,"Groß, Michael",,michaelgrossmdb,spd,Bund,"[17, 18, 19]",michaelgrossmdb
+115,1356753444,8,0,0.0,Schraps,Johannes,,,Bund,"Schraps, Johannes",,jschraps,spd,Bund,[19],jschraps
+116,1334019378,5,0,0.0,Stetten,Christian,,,Bund,"Stetten, Christian",,CvStetten,cducsu,Bund,"[15, 16, 17, 18, 19]",cvstetten
+117,1294725486,203,0,0.0,Tackmann,Kirsten,,,Bund,"Tackmann, Kirsten",,KirstenTackmann,linke,Bund,"[16, 17, 18, 19]",kirstentackmann
+118,1294532364,65,0,0.0,Oßner,Florian,,,Bund,"Oßner, Florian",,Florian_Ossner,cducsu,Bund,"[18, 19]",florian_ossner
+119,1286011081,73,0,0.0,Gottschalk,Kay,,,Bund,"Gottschalk, Kay",,KayGottschalk1,afd,Bund,[19],kaygottschalk1
+120,1182878557,176,0,0.0,Neu,Alexander S.,,,Bund,"Neu, Alexander S.",,AlexanderSNeu,linke,Bund,"[18, 19]",alexandersneu
+121,1117749912,356,0,0.0,Post,Achim,,,Bund,"Post, Achim",,Achim_P,spd,Bund,"[18, 19]",achim_p
+122,1117526742,60,0,0.0,Schwartze,Stefan,,,Bund,"Schwartze, Stefan",,s_schwartze,spd,Bund,"[17, 18, 19]",s_schwartze
+123,1108382916,269,0,0.0,Theurer,Michael,,,Bund,"Theurer, Michael",,EUTheurer,fdp,Bund,[19],eutheurer
+124,1475734592,297,0,0.0,Verlinden,Julia,,,Bund,"Verlinden, Julia",,julia_verlinden,gruene,Bund,"[18, 19]",julia_verlinden
+125,2885729417,551,0,0.0,Stein,Peter,,,Bund,"Stein, Peter",,Peter_Stein_CDU,cducsu,Bund,"[18, 19]",peter_stein_cdu
+126,1513671236,467,0,0.0,Hirte,Heribert,,,Bund,"Hirte, Heribert",,HHirte,cducsu,Bund,"[18, 19]",hhirte
+127,2179010672,212,0,0.0,Baerbock,Annalena,,,Bund,"Baerbock, Annalena",,ABaerbock,gruene,Bund,"[18, 19]",abaerbock
+128,2405039875,46,0,0.0,Kemmer,Ronja,,,Bund,"Kemmer, Ronja",,RonjaKemmer,cducsu,Bund,"[18, 19]",ronjakemmer
+129,2306519694,118,0,0.0,Tressel,Markus,,,Bund,"Tressel, Markus",,MarkusTressel,gruene,Bund,"[17, 18, 19]",markustressel
+130,2443895924,113,0,0.0,Müller,Bettina,,,Bund,"Müller, Bettina",,BetMueller,spd,Bund,"[18, 19]",betmueller
+131,2479436480,291,0,0.0,Whittaker,Kai,,,Bund,"Whittaker, Kai",,Kai_Whittaker,cducsu,Bund,"[18, 19]",kai_whittaker
+132,2226815116,976,0,0.0,Schwarz,Andreas,,,Bund,"Schwarz, Andreas",,Schwarz_MdB,spd,Bund,"[18, 19]",schwarz_mdb
+133,2192588903,94,0,0.0,Erndl,Thomas,,,Bund,"Erndl, Thomas",,TErndl,cducsu,Bund,[19],terndl
+134,2521976694,1,0,0.0,Karliczek,Anja,,,Bund,"Karliczek, Anja",,AnjaKarliczek,cducsu,Bund,"[18, 19]",anjakarliczek
+135,2596171296,459,0,0.0,Möhring,Cornelia,,,Bund,"Möhring, Cornelia",,Conni_Moehring,linke,Bund,"[17, 18, 19]",conni_moehring
+136,1906911697,14,0,0.0,Kühne,Roy,,,Bund,"Kühne, Roy",,Dr_Roy_Kuehne,cducsu,Bund,"[18, 19]",dr_roy_kuehne
+137,1872648764,23,0,0.0,Dittmar,Sabine,,,Bund,"Dittmar, Sabine",,dittmarsabine,spd,Bund,"[18, 19]",dittmarsabine
+138,1862781722,2,0,0.0,Gehrke,Axel,,,Bund,"Gehrke, Axel",,axelgehrke,afd,Bund,[19],axelgehrke
+139,1617177360,351,0,0.0,Christmann,Anna,,,Bund,"Christmann, Anna",,annachristmann,gruene,Bund,[19],annachristmann
+140,1530171613,228,0,0.0,Jensen,Gyde,,,Bund,"Jensen, Gyde",,GydeJ,fdp,Bund,[19],gydej
+141,1524735194,23,0,0.0,Rüffer,Corinna,,,Bund,"Rüffer, Corinna",,crueffer,gruene,Bund,"[18, 19]",crueffer
+142,2837971145,197,0,0.0,Jelpke,Ulla,,,Bund,"Jelpke, Ulla",,UllaJelpke,linke,Bund,"[12, 13, 14, 16, 17, 18, 19]",ullajelpke
+143,4164673821,510,0,0.0,Korte,Jan,,,Bund,"Korte, Jan",,jankortemdb,linke,Bund,"[16, 17, 18, 19]",jankortemdb
+144,3017602065,30,0,0.0,Katzmarek,Gabriele,,,Bund,"Katzmarek, Gabriele",,GabyKatzmarek,spd,Bund,"[18, 19]",gabykatzmarek
+145,916950563815870464,70,0,0.0,Ebbing,Hartmut,,,Bund,"Ebbing, Hartmut",,HartmutEbbing,fdp,Bund,[19],hartmutebbing
+146,913358838736310272,86,0,0.0,Seitz,Thomas,,,Bund,"Seitz, Thomas",,Th_Seitz_AfD,afd,Bund,[19],th_seitz_afd
+147,910878654535749632,136,0,0.0,Bleck,Andreas,,,Bund,"Bleck, Andreas",,andreasbleckmdb,afd,Bund,[19],andreasbleckmdb
+148,904304932257492992,16,0,0.0,Brehm,Sebastian,,,Bund,"Brehm, Sebastian",,Brehm_inNBGNord,cducsu,Bund,[19],brehm_innbgnord
+149,881480498043916288,52,0,0.0,Büttner,Matthias,,,Bund,"Büttner, Matthias",,Buettner_MdB,afd,Bund,[19],buettner_mdb
+150,874917828436078592,82,0,0.0,Wagner,Daniela,,,Bund,"Wagner, Daniela",,DanyWagner_DA,gruene,Bund,"[17, 19]",danywagner_da
+151,872663038805016576,68,0,0.0,Hess,Martin,,,Bund,"Hess, Martin",,Martin_Hess_AfD,afd,Bund,[19],martin_hess_afd
+152,867351565757239296,150,0,0.0,Grötsch,Uli,,,Bund,"Grötsch, Uli",,UliGroetsch,spd,Bund,"[18, 19]",uligroetsch
+153,861992050358616064,871,0,0.0,Meyer,Christoph,,,Bund,"Meyer, Christoph",,Meyer_FDP,fdp,Bund,[19],meyer_fdp
+154,858362895075340288,1121,0,0.0,Weeser,Sandra,,,Bund,"Weeser, Sandra",,sandra_weeser,fdp,Bund,[19],sandra_weeser
+155,857906951707127808,449,0,0.0,Brandenburg,Jens,,,Bund,"Brandenburg, Jens",,JBrandenburgFDP,fdp,Bund,[19],jbrandenburgfdp
+156,849567328899616768,361,0,0.0,Kessler,Achim,,,Bund,"Kessler, Achim",,AchimKesslerMdB,linke,Bund,[19],achimkesslermdb
+157,845282647261761536,416,0,0.0,Mindrup,Klaus,,,Bund,"Mindrup, Klaus",,KlausMindrup,spd,Bund,"[18, 19]",klausmindrup
+158,845213960060243968,16,0,0.0,Scheer,Nina,,,Bund,"Scheer, Nina",,NinaScheer_SPD,spd,Bund,"[18, 19]",ninascheer_spd
+159,828943222432997376,76,0,0.0,Schinnenburg,Wieland,,,Bund,"Schinnenburg, Wieland",,WSchinnenburg,fdp,Bund,[19],wschinnenburg
+160,828623998921629696,317,0,0.0,Beer,Nicola,,,Bund,"Beer, Nicola",,nicolabeerfdp,fdp,Bund,[19],nicolabeerfdp
+161,827090742162100224,290,0,0.0,Schüle,Manja,,,Bund,"Schüle, Manja",,ManjaSchuele,spd,Bund,[19],manjaschuele
+162,825019912083038208,34,0,0.0,Staffler,Katrin,,,Bund,"Staffler, Katrin",,katrin_staffler,cducsu,Bund,[19],katrin_staffler
+163,916639458409242624,182,0,0.0,Maier,Jens,,,Bund,"Maier, Jens",,JensMaierAfD,afd,Bund,[19],jensmaierafd
+164,920193967937019904,61,0,0.0,Wirth,Christian,,,Bund,"Wirth, Christian",,ChrWirthMdB,afd,Bund,[19],chrwirthmdb
+165,819914159915667456,8,0,0.0,Pilsinger,Stephan,,,Bund,"Pilsinger, Stephan",,StephPilsinger,cducsu,Bund,[19],stephpilsinger
+166,925703909825548288,99,0,0.0,Freihold,Brigitte,,,Bund,"Freihold, Brigitte",,MdB_Freihold,linke,Bund,[19],mdb_freihold
+167,997138767763750912,148,0,0.0,Herbrand,Markus,,,Bund,"Herbrand, Markus",,HerbrandMarkus,fdp,Bund,[19],herbrandmarkus
+168,995228494023086080,207,0,0.0,Klein,Karsten,,,Bund,"Klein, Karsten",,MdBKlein,fdp,Bund,[19],mdbklein
+169,988765113606918144,153,0,0.0,Lechte,Ulrich,,,Bund,"Lechte, Ulrich",,ulrichlechte,fdp,Bund,[19],ulrichlechte
+170,984735466783232000,1499,0,0.0,Rottmann,Manuela,,,Bund,"Rottmann, Manuela",,ManuelaRottman,gruene,Bund,[19],manuelarottman
+171,984048002967982080,287,0,0.0,Müller-Rosentritt,Frank,,,Bund,"Müller-Rosentritt, Frank",,theliberalfrank,fdp,Bund,[19],theliberalfrank
+172,976107205849206784,117,0,0.0,Aggelidis,Grigorios,,,Bund,"Aggelidis, Grigorios",,aggelidis_fdp,fdp,Bund,[19],aggelidis_fdp
+173,974589289689427968,488,0,0.0,Neumann,Martin,,,Bund,"Neumann, Martin",,_MartinNeumann,fdp,Bund,"[17, 19]",_martinneumann
+174,960463104537657344,126,0,0.0,Djir-Sarai,Bijan,,,Bund,"Djir-Sarai, Bijan",,DjirSarai,fdp,Bund,"[17, 19]",djirsarai
+175,959059951523106816,464,0,0.0,Straetmanns,Friedrich,,,Bund,"Straetmanns, Friedrich",,FrStraetmanns,linke,Bund,[19],frstraetmanns
+176,954049866283483136,26,0,0.0,Mansmann,Till,,,Bund,"Mansmann, Till",,TillMansmann,fdp,Bund,[19],tillmansmann
+177,951489275312443392,104,0,0.0,Silberhorn,Thomas,,,Bund,"Silberhorn, Thomas",,SilberhornMdB,cducsu,Bund,"[15, 16, 17, 18, 19]",silberhornmdb
+178,948958759560376320,103,0,0.0,Skudelny,Judith,,,Bund,"Skudelny, Judith",,JudithSkudelny,fdp,Bund,"[17, 19]",judithskudelny
+179,943082490482262016,511,0,0.0,Stumpp,Margit,,,Bund,"Stumpp, Margit",,margit_stumpp,gruene,Bund,[19],margit_stumpp
+180,940585440746328064,310,0,0.0,Schreiber,Eva-Maria,,,Bund,"Schreiber, Eva-Maria",,MdB_Schreiber,linke,Bund,[19],mdb_schreiber
+181,935815000006053888,124,0,0.0,Biadacz,Marc,,,Bund,"Biadacz, Marc",,MBiadaczMdB,cducsu,Bund,[19],mbiadaczmdb
+182,934029228886065152,145,0,0.0,Mohamed Ali,Amira,,,Bund,"Mohamed Ali, Amira",,Amira_M_Ali,linke,Bund,[19],amira_m_ali
+183,928974816220254208,1,0,0.0,Knoerig,Axel,,,Bund,"Knoerig, Axel",,axel_knoerig,cducsu,Bund,"[17, 18, 19]",axel_knoerig
+184,824210890354520064,4,0,0.0,Maier,Lothar,,,Bund,"Maier, Lothar",,ProfMaier,afd,Bund,[19],profmaier
+185,810537151729373184,31,0,0.0,Spaniel,Dirk,,,Bund,"Spaniel, Dirk",,DirkSpaniel,afd,Bund,[19],dirkspaniel
+186,3034092143,68,0,0.0,Link,Michael Georg,,,Bund,"Link, Michael Georg",,michael_g_link,fdp,Bund,"[16, 17, 19]",michael_g_link
+187,4249342037,6,0,0.0,Kuffer,Michael,,,Bund,"Kuffer, Michael",,MichaelKuffer,cducsu,Bund,[19],michaelkuffer
+188,4130621842,33,0,0.0,Frohnmaier,Markus,,,Bund,"Frohnmaier, Markus",,Frohnmaier_AfD,afd,Bund,[19],frohnmaier_afd
+189,4110374301,111,0,0.0,Schick,Gerhard,,,Bund,"Schick, Gerhard",,SchickGerhard,gruene,Bund,"[16, 17, 18, 19]",schickgerhard
+190,4017796049,51,0,0.0,Stamm-Fibich,Martina,,,Bund,"Stamm-Fibich, Martina",,stamm_fibich,spd,Bund,"[18, 19]",stamm_fibich
+191,3852561082,5,0,0.0,Magwas,Yvonne,,,Bund,"Magwas, Yvonne",,YvonneMagwas,cducsu,Bund,"[18, 19]",yvonnemagwas
+192,3635730797,451,0,0.0,Lenz,Andreas,,,Bund,"Lenz, Andreas",,DerLenzMdB,cducsu,Bund,"[18, 19]",derlenzmdb
+193,3577737256,48,0,0.0,Träger,Carsten,,,Bund,"Träger, Carsten",,CarstenTraeger,spd,Bund,"[18, 19]",carstentraeger
+194,3522875063,74,0,0.0,Töns,Markus,,,Bund,"Töns, Markus",,Toens_NRW04,spd,Bund,[19],toens_nrw04
+195,3384789731,98,0,0.0,Felser,Peter,,,Bund,"Felser, Peter",,PeterFelser,afd,Bund,[19],peterfelser
+196,3376953843,37,0,0.0,Bartke,Matthias,,,Bund,"Bartke, Matthias",,matthiasbartke,spd,Bund,"[18, 19]",matthiasbartke
+197,3350681139,273,0,0.0,Perli,Victor,,,Bund,"Perli, Victor",,victorperli,linke,Bund,[19],victorperli
+198,3337459024,144,0,0.0,Stadler,Svenja,,,Bund,"Stadler, Svenja",,stadler_svenja,spd,Bund,"[18, 19]",stadler_svenja
+199,3292982985,1833,0,0.0,Lauterbach,Karl,,,Bund,"Lauterbach, Karl",,Karl_Lauterbach,spd,Bund,"[16, 17, 18, 19]",karl_lauterbach
+200,3242322815,10,0,0.0,Ehrhorn,Thomas,,,Bund,"Ehrhorn, Thomas",,Thomas_Ehrhorn,afd,Bund,[19],thomas_ehrhorn
+201,3236928208,119,0,0.0,Steier,Andreas,,,Bund,"Steier, Andreas",,AndreasSteier,cducsu,Bund,[19],andreassteier
+202,3188225915,34,0,0.0,Kartes,Torbjörn,,,Bund,"Kartes, Torbjörn",,KartesMdB,cducsu,Bund,[19],kartesmdb
+203,3047392319,1356,0,0.0,Strack-Zimmermann,Marie-Agnes,,,Bund,"Strack-Zimmermann, Marie-Agnes",,MAStrackZi,fdp,Bund,[19],mastrackzi
+204,3043727333,25,0,0.0,Baumann,Bernd,,,Bund,"Baumann, Bernd",,BerndBaumannAfD,afd,Bund,[19],berndbaumannafd
+205,1082464339,59,0,0.0,Pantel,Sylvia,,,Bund,"Pantel, Sylvia",,SylviaPantel,cducsu,Bund,"[18, 19]",sylviapantel
+206,4265444913,159,0,0.0,Müller,Norbert,,,Bund,"Müller, Norbert",,Norbert_MdB,linke,Bund,"[18, 19]",norbert_mdb
+207,808400627084705792,852,0,0.0,Bayaz,Danyal,,,Bund,"Bayaz, Danyal",,DerDanyal,gruene,Bund,[19],derdanyal
+208,4429947807,76,0,0.0,Elsner von Gronow,Berengar,,,Bund,"Elsner von Gronow, Berengar",,ElsnervonGronow,afd,Bund,[19],elsnervongronow
+209,804064797977444352,39,0,0.0,Kraft,Rainer,,,Bund,"Kraft, Rainer",,Dr_Rainer_Kraft,afd,Bund,[19],dr_rainer_kraft
+210,802968497831739392,285,0,0.0,Brandenburg,Mario,,,Bund,"Brandenburg, Mario",,BraFDP,fdp,Bund,[19],brafdp
+211,801803127762669568,698,0,0.0,Müller,Sepp,,,Bund,"Müller, Sepp",,mueller_sepp,cducsu,Bund,[19],mueller_sepp
+212,800457587510476800,311,0,0.0,Akbulut,Gökay,,,Bund,"Akbulut, Gökay",,AkbulutGokay,linke,Bund,[19],akbulutgokay
+213,796691290016583680,24,0,0.0,Grübel,Markus,,,Bund,"Grübel, Markus",,GruebelMdb,cducsu,Bund,"[15, 16, 17, 18, 19]",gruebelmdb
+214,786498202832822272,18,0,0.0,Hellmich,Wolfgang,,,Bund,"Hellmich, Wolfgang",,HellmichMdB,spd,Bund,"[17, 18, 19]",hellmichmdb
+215,784760007275515904,643,0,0.0,Müller,Detlef,,,Bund,"Müller, Detlef",,MuellerChemnitz,spd,Bund,"[16, 18, 19]",muellerchemnitz
+216,781747720897892352,1,0,0.0,Komning,Enrico,,,Bund,"Komning, Enrico",,EnricoKomning,afd,Bund,[19],enricokomning
+217,779601750789656576,22,0,0.0,Güntzler,Fritz,,,Bund,"Güntzler, Fritz",,FGuentzler,cducsu,Bund,"[18, 19]",fguentzler
+218,740178046649565184,1270,0,0.0,Jung,Christian,,,Bund,"Jung, Christian",,c_jung77,fdp,Bund,[19],c_jung77
+219,739531034761498624,29,0,0.0,Holm,Leif-Erik,,,Bund,"Holm, Leif-Erik",,Leif_Erik_Holm,afd,Bund,[19],leif_erik_holm
+220,719975730784956416,178,0,0.0,Schneider,Jörg,,,Bund,"Schneider, Jörg",,Schneider_AfD,afd,Bund,[19],schneider_afd
+221,4866955749,15,0,0.0,Stefinger,Wolfgang,,,Bund,"Stefinger, Wolfgang",,StefingerMdB,cducsu,Bund,"[18, 19]",stefingermdb
+222,4724923756,6,0,0.0,Hajduk,Anja,,,Bund,"Hajduk, Anja",,HajdukBundestag,gruene,Bund,"[15, 16, 18, 19]",hajdukbundestag
+223,4577700622,1,0,0.0,Frieser,Michael,,,Bund,"Frieser, Michael",,MichaelFrieser,cducsu,Bund,"[17, 18, 19]",michaelfrieser
+224,4557858142,88,0,0.0,Zdebel,Hubertus,,,Bund,"Zdebel, Hubertus",,ZdebelHubertus,linke,Bund,"[18, 19]",zdebelhubertus
+225,4503658823,91,0,0.0,Witt,Uwe,,,Bund,"Witt, Uwe",,Witt_Uwe,afd,Bund,[19],witt_uwe
+226,1099159964,18,0,0.0,Möring,Karsten,,,Bund,"Möring, Karsten",,KarstenMoering,cducsu,Bund,"[18, 19]",karstenmoering
+227,516783036,296,0,0.0,Kolbe,Daniela,,,Bund,"Kolbe, Daniela",,danielakolbe,spd,Bund,"[17, 18, 19]",danielakolbe
+228,1076269195,83,0,0.0,Hartmann,Sebastian,,,Bund,"Hartmann, Sebastian",,sebast_hartmann,spd,Bund,"[18, 19]",sebast_hartmann
+229,25980076,84,0,0.0,Aschenberg-Dugnus,Christine,,,Bund,"Aschenberg-Dugnus, Christine",,cad59,fdp,Bund,"[17, 19]",cad59
+230,38228691,627,0,0.0,Stark-Watzinger,Bettina,,,Bund,"Stark-Watzinger, Bettina",,starkwatzinger,fdp,Bund,[19],starkwatzinger
+231,38001527,87,0,0.0,Brinkhaus,Ralph,,,Bund,"Brinkhaus, Ralph",,rbrinkhaus,cducsu,Bund,"[17, 18, 19]",rbrinkhaus
+232,37105136,336,0,0.0,Jarzombek,Thomas,,,Bund,"Jarzombek, Thomas",,tj_tweets,cducsu,Bund,"[17, 18, 19]",tj_tweets
+233,36665085,269,0,0.0,Lischka,Burkhard,,,Bund,"Lischka, Burkhard",,LischkaB,spd,Bund,"[17, 18, 19]",lischkab
+234,36329898,10,0,0.0,Burkert,Martin,,,Bund,"Burkert, Martin",,BurkertMartin,spd,Bund,"[16, 17, 18, 19]",burkertmartin
+235,36327895,252,0,0.0,Rix,Sönke,,,Bund,"Rix, Sönke",,SoenkeRix,spd,Bund,"[16, 17, 18, 19]",soenkerix
+236,35846585,256,0,0.0,Högl,Eva,,,Bund,"Högl, Eva",,EvaHoegl,spd,Bund,"[16, 17, 18, 19]",evahoegl
+237,34214048,240,0,0.0,Meister,Michael,,,Bund,"Meister, Michael",,meister_schafft,cducsu,Bund,"[13, 14, 15, 16, 17, 18, 19]",meister_schafft
+238,33071479,449,0,0.0,Rüddel,Erwin,,,Bund,"Rüddel, Erwin",,Erwin_Rueddel,cducsu,Bund,"[17, 18, 19]",erwin_rueddel
+239,33043294,1,0,0.0,Klein,Volkmar,,,Bund,"Klein, Volkmar",,VolkmarKlein,cducsu,Bund,"[17, 18, 19]",volkmarklein
+240,30050484,558,0,0.0,Schwabe,Frank,,,Bund,"Schwabe, Frank",,FrankSchwabe,spd,Bund,"[16, 17, 18, 19]",frankschwabe
+241,29540300,194,0,0.0,Strasser,Benjamin,,,Bund,"Strasser, Benjamin",,bstrasser,fdp,Bund,[19],bstrasser
+242,28784085,314,0,0.0,Rosemann,Martin,,,Bund,"Rosemann, Martin",,MartinRosemann,spd,Bund,"[18, 19]",martinrosemann
+243,28446356,206,0,0.0,Ullrich,Volker,,,Bund,"Ullrich, Volker",,VolkerUllrich,cducsu,Bund,"[18, 19]",volkerullrich
+244,28327765,138,0,0.0,Kluckert,Daniela,,,Bund,"Kluckert, Daniela",,DanielaKluckert,fdp,Bund,[19],danielakluckert
+245,28089973,14,0,0.0,Oster,Josef,,,Bund,"Oster, Josef",,josefoster,cducsu,Bund,[19],josefoster
+246,28087038,29,0,0.0,Sitta,Frank,,,Bund,"Sitta, Frank",,franksitta,fdp,Bund,[19],franksitta
+247,38467606,145,0,0.0,Hardt,Jürgen,,,Bund,"Hardt, Jürgen",,juergenhardt,cducsu,Bund,"[17, 18, 19]",juergenhardt
+248,38645930,10,0,0.0,Rossmann,Ernst Dieter,,,Bund,"Rossmann, Ernst Dieter",,edrossmann,spd,Bund,"[14, 15, 16, 17, 18, 19]",edrossmann
+249,39709752,246,0,0.0,Griese,Kerstin,,,Bund,"Griese, Kerstin",,KerstinGriese,spd,Bund,"[14, 15, 16, 17, 18, 19]",kerstingriese
+250,47049428,23,0,0.0,Walter-Rosenheimer,Beate,,,Bund,"Walter-Rosenheimer, Beate",,BeateWaRo,gruene,Bund,"[17, 18, 19]",beatewaro
+251,53426644,258,0,0.0,Müller-Gemmeke,Beate,,,Bund,"Müller-Gemmeke, Beate",,GrueneBeate,gruene,Bund,"[17, 18, 19]",gruenebeate
+252,53351462,382,0,0.0,Rößner,Tabea,,,Bund,"Rößner, Tabea",,TabeaRoessner,gruene,Bund,"[17, 18, 19]",tabearoessner
+253,52994606,305,0,0.0,Zimmer,Matthias,,,Bund,"Zimmer, Matthias",,matthiaszimmer,cducsu,Bund,"[17, 18, 19]",matthiaszimmer
+254,52431948,126,0,0.0,Ebner,Harald,,,Bund,"Ebner, Harald",,ebner_sha,gruene,Bund,"[17, 18, 19]",ebner_sha
+255,51483238,32,0,0.0,Gebhart,Thomas,,,Bund,"Gebhart, Thomas",,thomasgebhart,cducsu,Bund,"[17, 18, 19]",thomasgebhart
+256,50932086,154,0,0.0,Schwarzelühr-Sutter,Rita,,,Bund,"Schwarzelühr-Sutter, Rita",,rischwasu,spd,Bund,"[16, 17, 18, 19]",rischwasu
+257,50315139,91,0,0.0,Scheuer,Andreas,,,Bund,"Scheuer, Andreas",,andreasscheuer,cducsu,Bund,"[15, 16, 17, 18, 19]",andreasscheuer
+258,46498076,240,0,0.0,Stein,Mathias,,,Bund,"Stein, Mathias",,stonie_kiel,spd,Bund,[19],stonie_kiel
+259,41548943,66,0,0.0,Andreae,Kerstin,,,Bund,"Andreae, Kerstin",,KerstinAndreae,gruene,Bund,"[15, 16, 17, 18, 19]",kerstinandreae
+260,46480553,122,0,0.0,Kekeritz,Uwe,,,Bund,"Kekeritz, Uwe",,UweKekeritz,gruene,Bund,"[17, 18, 19]",uwekekeritz
+261,44608858,48,0,0.0,Henrichmann,Marc,,,Bund,"Henrichmann, Marc",,MarcHenrichmann,cducsu,Bund,[19],marchenrichmann
+262,44359035,290,0,0.0,Nestle,Ingrid,,,Bund,"Nestle, Ingrid",,Ingrid_Nestle,gruene,Bund,"[17, 19]",ingrid_nestle
+263,43959185,2,0,0.0,Heinrich,Frank,,,Bund,"Heinrich, Frank",,FrankHeinrich,cducsu,Bund,"[17, 18, 19]",frankheinrich
+264,43537931,55,0,0.0,Sensburg,Patrick,,,Bund,"Sensburg, Patrick",,PatrickSensburg,cducsu,Bund,"[17, 18, 19]",patricksensburg
+265,42698498,546,0,0.0,Kiesewetter,Roderich,,,Bund,"Kiesewetter, Roderich",,RKiesewetter,cducsu,Bund,"[17, 18, 19]",rkiesewetter
+266,41840905,70,0,0.0,Schön,Nadine,,,Bund,"Schön, Nadine",,NadineSchoen,cducsu,Bund,"[17, 18, 19]",nadineschoen
+267,26869088,19,0,0.0,Steffel,Frank,,,Bund,"Steffel, Frank",,franksteffel,cducsu,Bund,"[17, 18, 19]",franksteffel
+268,24178198,270,0,0.0,Lötzsch,Gesine,,,Bund,"Lötzsch, Gesine",,LoetzschMdB,linke,Bund,"[15, 16, 17, 18, 19]",loetzschmdb
+269,1043288618,207,0,0.0,Hakverdi,Metin,,,Bund,"Hakverdi, Metin",,MetinHakverdi,spd,Bund,"[18, 19]",metinhakverdi
+270,24158261,427,0,0.0,Maas,Heiko,,,Bund,"Maas, Heiko",,HeikoMaas,spd,Bund,[19],heikomaas
+271,18880634,321,0,0.0,Suding,Katja,,,Bund,"Suding, Katja",,KatjaSuding,fdp,Bund,[19],katjasuding
+272,18189342,708,0,0.0,Schäffler,Frank,,,Bund,"Schäffler, Frank",,f_schaeffler,fdp,Bund,"[16, 17, 19]",f_schaeffler
+273,18160122,332,0,0.0,Rohde,Dennis,,,Bund,"Rohde, Dennis",,DennisRohde,spd,Bund,"[18, 19]",dennisrohde
+274,18103366,1069,0,0.0,Klein-Schmeink,Maria,,,Bund,"Klein-Schmeink, Maria",,MariaKlSchmeink,gruene,Bund,"[17, 18, 19]",mariaklschmeink
+275,18044683,1255,0,0.0,Fricke,Otto,,,Bund,"Fricke, Otto",,Otto_Fricke,fdp,Bund,"[15, 16, 17, 19]",otto_fricke
+276,17922403,147,0,0.0,Sarrazin,Manuel,,,Bund,"Sarrazin, Manuel",,ManuelSarrazin,gruene,Bund,"[16, 17, 18, 19]",manuelsarrazin
+277,17675072,67,0,0.0,Schulz,Martin,,,Bund,"Schulz, Martin",,MartinSchulz,spd,Bund,[19],martinschulz
+278,17483463,88,0,0.0,Höferlin,Manuel,,,Bund,"Höferlin, Manuel",,ManuelHoeferlin,fdp,Bund,"[17, 19]",manuelhoeferlin
+279,17469649,438,0,0.0,Castellucci,Lars,,,Bund,"Castellucci, Lars",,larscastellucci,spd,Bund,"[18, 19]",larscastellucci
+280,17343047,780,0,0.0,Kindler,Sven-Christian,,,Bund,"Kindler, Sven-Christian",,sven_kindler,gruene,Bund,"[17, 18, 19]",sven_kindler
+281,17229513,339,0,0.0,Lemke,Steffi,,,Bund,"Lemke, Steffi",,SteffiLemke,gruene,Bund,"[13, 14, 18, 19]",steffilemke
+282,16706236,675,0,0.0,Lehmann,Sven,,,Bund,"Lehmann, Sven",,svenlehmann,gruene,Bund,[19],svenlehmann
+283,16696924,107,0,0.0,Pflüger,Tobias,,,Bund,"Pflüger, Tobias",,tpflueger,linke,Bund,[19],tpflueger
+284,16674128,543,0,0.0,Nouripour,Omid,,,Bund,"Nouripour, Omid",,nouripour,gruene,Bund,"[16, 17, 18, 19]",nouripour
+285,16325209,45,0,0.0,Solms,Hermann Otto,,,Bund,"Solms, Hermann Otto",,solms,fdp,Bund,"[9, 10, 11, 12, 13, 14, 15, 16, 17, 19]",solms
+286,16255941,306,0,0.0,Klingbeil,Lars,,,Bund,"Klingbeil, Lars",,larsklingbeil,spd,Bund,"[15, 17, 18, 19]",larsklingbeil
+287,15943222,322,0,0.0,Heil,Hubertus,,,Bund,"Heil, Hubertus",,hubertus_heil,spd,Bund,"[14, 15, 16, 17, 18, 19]",hubertus_heil
+288,19108071,67,0,0.0,Braun,Helge,,,Bund,"Braun, Helge",,HBraun,cducsu,Bund,"[15, 17, 18, 19]",hbraun
+289,19177808,14,0,0.0,Schulz,Uwe,,,Bund,"Schulz, Uwe",,Uwe_Schulz_AfD,afd,Bund,[19],uwe_schulz_afd
+290,19257571,65,0,0.0,Pronold,Florian,,,Bund,"Pronold, Florian",,FlorianPronold,spd,Bund,"[15, 16, 17, 18, 19]",florianpronold
+291,21404382,524,0,0.0,Lay,Caren,,,Bund,"Lay, Caren",,CarenLay,linke,Bund,"[17, 18, 19]",carenlay
+292,23925041,141,0,0.0,Bilger,Steffen,,,Bund,"Bilger, Steffen",,SteffenBilger,cducsu,Bund,"[17, 18, 19]",steffenbilger
+293,23447001,4,0,0.0,Mattfeldt,Andreas,,,Bund,"Mattfeldt, Andreas",,AMattfeldt,cducsu,Bund,"[17, 18, 19]",amattfeldt
+294,23296367,2,0,0.0,Jung,Ingmar,,,Bund,"Jung, Ingmar",,Ingmar_Jung,cducsu,Bund,[19],ingmar_jung
+295,23248102,515,0,0.0,Kiziltepe,Cansel,,,Bund,"Kiziltepe, Cansel",,CanselK,spd,Bund,"[18, 19]",canselk
+296,22755312,138,0,0.0,Kemmerich,Thomas L,FDP  ,@KemmerichThL,Thüringen,"Kemmerich, Thomas L",,KemmerichThL,FDP,Land,,kemmerichthl
+297,22755312,138,0,0.0,Kemmerich,Thomas L.,,,Bund,"Kemmerich, Thomas L.",,KemmerichThL,fdp,Bund,[19],kemmerichthl
+298,22364234,150,0,0.0,Faber,Marcus,,,Bund,"Faber, Marcus",,MarcusFaber,fdp,Bund,[19],marcusfaber
+299,22125770,421,0,0.0,Deligöz,Ekin,,,Bund,"Deligöz, Ekin",,ekindeligoez,gruene,Bund,"[14, 15, 16, 17, 18, 19]",ekindeligoez
+300,21267421,331,0,0.0,Helling-Plahr,Katrin,,,Bund,"Helling-Plahr, Katrin",,KatrinHelling,fdp,Bund,[19],katrinhelling
+301,19286748,9,0,0.0,Matschie,Christoph,,,Bund,"Matschie, Christoph",,matschie,spd,Bund,"[12, 13, 14, 15, 19]",matschie
+302,20986770,95,0,0.0,Dehm,Diether,,,Bund,"Dehm, Diether",,Diether_Dehm,linke,Bund,"[12, 16, 17, 18, 19]",diether_dehm
+303,20916357,50,0,0.0,Kruse,Rüdiger,,,Bund,"Kruse, Rüdiger",,RuedigerKruse,cducsu,Bund,"[17, 18, 19]",ruedigerkruse
+304,20877217,1164,0,0.0,Kelber,Ulrich,,,Bund,"Kelber, Ulrich",,UlrichKelber,spd,Bund,"[14, 15, 16, 17, 18, 19]",ulrichkelber
+305,20534846,28,0,0.0,Storjohann,Gero,,,Bund,"Storjohann, Gero",,gero_storjohann,cducsu,Bund,"[15, 16, 17, 18, 19]",gero_storjohann
+306,19909974,173,0,0.0,Kober,Pascal,,,Bund,"Kober, Pascal",,PascalKober,fdp,Bund,"[17, 19]",pascalkober
+307,19738866,558,0,0.0,Dörner,Katja,,,Bund,"Dörner, Katja",,katjadoerner,gruene,Bund,"[17, 18, 19]",katjadoerner
+308,19438957,132,0,0.0,Bas,Bärbel,,,Bund,"Bas, Bärbel",,baerbelbas,spd,Bund,"[17, 18, 19]",baerbelbas
+309,57293969,213,0,0.0,Bartol,Sören,,,Bund,"Bartol, Sören",,soerenbartol,spd,Bund,"[15, 16, 17, 18, 19]",soerenbartol
+310,58429842,114,0,0.0,Gutting,Olav,,,Bund,"Gutting, Olav",,olavgutting,cducsu,Bund,"[15, 16, 17, 18, 19]",olavgutting
+311,60630139,296,0,0.0,Lazar,Monika,,,Bund,"Lazar, Monika",,monikalazar,gruene,Bund,"[15, 16, 17, 18, 19]",monikalazar
+312,64159881,10,0,0.0,Petry,Christian,,,Bund,"Petry, Christian",,CPetryMdB,spd,Bund,"[18, 19]",cpetrymdb
+313,449619355,528,0,0.0,Zimmermann,Jens,,,Bund,"Zimmermann, Jens",,JensZSPD,spd,Bund,"[18, 19]",jenszspd
+314,445375409,88,0,0.0,Beyer,Peter,,,Bund,"Beyer, Peter",,Peter_Beyer,cducsu,Bund,"[17, 18, 19]",peter_beyer
+315,426582569,493,0,0.0,Gelbhaar,Stefan,,,Bund,"Gelbhaar, Stefan",,StefanGelbhaar,gruene,Bund,[19],stefangelbhaar
+316,409258073,533,0,0.0,Thews,Michael,,,Bund,"Thews, Michael",,michael_thews,spd,Bund,"[18, 19]",michael_thews
+317,409203792,1357,0,0.0,Schummer,Uwe,,,Bund,"Schummer, Uwe",,UweSchummer,cducsu,Bund,"[17, 18, 19, 15, 16]",uweschummer
+318,395912134,43,0,0.0,Schuster,Armin,,,Bund,"Schuster, Armin",,armin_schuster,cducsu,Bund,"[17, 18, 19]",armin_schuster
+319,389682667,380,0,0.0,Wadephul,Johann David,,,Bund,"Wadephul, Johann David",,JoWadephul,cducsu,Bund,"[17, 18, 19]",jowadephul
+320,382044198,420,0,0.0,Nissen,Ulli,,,Bund,"Nissen, Ulli",,UlliNissen,spd,Bund,"[18, 19]",ullinissen
+321,378693834,372,0,0.0,Altmaier,Peter,,,Bund,"Altmaier, Peter",,peteraltmaier,cducsu,Bund,"[13, 14, 15, 16, 17, 18, 19]",peteraltmaier
+322,332264734,131,0,0.0,Hänsel,Heike,,,Bund,"Hänsel, Heike",,HeikeHaensel,linke,Bund,"[16, 17, 18, 19]",heikehaensel
+323,328939758,206,0,0.0,Lange,Christian,,,Bund,"Lange, Christian",,LangeMdB,spd,Bund,"[14, 15, 16, 17, 18, 19]",langemdb
+324,316355056,73,0,0.0,Diaby,Karamba,,,Bund,"Diaby, Karamba",,KarambaDiaby,spd,Bund,"[18, 19]",karambadiaby
+325,314534724,161,0,0.0,Meiser,Pascal,,,Bund,"Meiser, Pascal",,pascalmeiser,linke,Bund,[19],pascalmeiser
+326,299650387,310,0,0.0,Spahn,Jens,,,Bund,"Spahn, Jens",,jensspahn,cducsu,Bund,"[15, 16, 17, 18, 19]",jensspahn
+327,296121556,16,0,0.0,Heinrich,Gabriela,,,Bund,"Heinrich, Gabriela",,GaHeinrich,spd,Bund,"[18, 19]",gaheinrich
+328,293522998,159,0,0.0,Sitte,Petra,,,Bund,"Sitte, Petra",,Petra_Sitte_MdB,linke,Bund,"[16, 17, 18, 19]",petra_sitte_mdb
+329,292151515,761,0,0.0,Hitschler,Thomas,,,Bund,"Hitschler, Thomas",,ThomasHitschler,spd,Bund,"[18, 19]",thomashitschler
+330,474013625,12,0,0.0,Kotting-Uhl,Sylvia,,,Bund,"Kotting-Uhl, Sylvia",,KottingUhl,gruene,Bund,"[16, 17, 18, 19]",kottinguhl
+331,480623844,75,0,0.0,Bause,Margarete,,,Bund,"Bause, Margarete",,MargareteBause,gruene,Bund,[19],margaretebause
+332,481393623,21,0,0.0,Franke,Edgar,,,Bund,"Franke, Edgar",,FrankeEdgar,spd,Bund,"[17, 18, 19]",frankeedgar
+333,850993608,62,0,0.0,Gabelmann,Sylvia,,,Bund,"Gabelmann, Sylvia",,SylviaGabelmann,linke,Bund,[19],sylviagabelmann
+334,1028440310,24,0,0.0,Klare,Arno,,,Bund,"Klare, Arno",,arnoklare,spd,Bund,"[18, 19]",arnoklare
+335,992808439,5,0,0.0,Weber,Gabi,,,Bund,"Weber, Gabi",,GabiWeberSPD,spd,Bund,"[18, 19]",gabiweberspd
+336,976421048,104,0,0.0,Glöckner,Angelika,,,Bund,"Glöckner, Angelika",,A_Gloeckner,spd,Bund,"[18, 19]",a_gloeckner
+337,974367631,1,0,0.0,Heil,Mechthild,,,Bund,"Heil, Mechthild",,MechthildHeil,cducsu,Bund,"[17, 18, 19]",mechthildheil
+338,963904327,3,0,0.0,Rouenhoff,Stefan,,,Bund,"Rouenhoff, Stefan",,StefanRouenhoff,cducsu,Bund,[19],stefanrouenhoff
+339,888289790,147,0,0.0,Gysi,Gregor,,,Bund,"Gysi, Gregor",,GregorGysi,linke,Bund,"[11, 12, 13, 14, 16, 17, 18, 19]",gregorgysi
+340,884382990,98,0,0.0,Weinberg,Marcus,,,Bund,"Weinberg, Marcus",,MarcusWeinberg,cducsu,Bund,"[16, 17, 18, 19]",marcusweinberg
+341,748851762,90,0,0.0,Birkwald,Matthias W.,,,Bund,"Birkwald, Matthias W.",,MWBirkwald,linke,Bund,"[17, 18, 19]",mwbirkwald
+342,15630931,2036,0,0.0,Vogel,Johannes,,,Bund,"Vogel, Johannes",,johannesvogel,fdp,Bund,"[17, 19]",johannesvogel
+343,727782559,421,0,0.0,Gastel,Matthias,,,Bund,"Gastel, Matthias",,MatthiasGastel,gruene,Bund,"[18, 19]",matthiasgastel
+344,702653022,15,0,0.0,Steffen,Sonja Amalie,,,Bund,"Steffen, Sonja Amalie",,SteffenSonja,spd,Bund,"[17, 18, 19]",steffensonja
+345,626287930,649,0,0.0,Göring-Eckardt,Katrin,,,Bund,"Göring-Eckardt, Katrin",,GoeringEckardt,gruene,Bund,"[14, 15, 16, 17, 18, 19]",goeringeckardt
+346,609972369,356,0,0.0,Ullmann,Andrew,,,Bund,"Ullmann, Andrew",,UllmannMdB,fdp,Bund,[19],ullmannmdb
+347,600984834,55,0,0.0,Krellmann,Jutta,,,Bund,"Krellmann, Jutta",,JuttaKrellmann,linke,Bund,"[17, 18, 19]",juttakrellmann
+348,563706584,100,0,0.0,Todtenhausen,Manfred,,,Bund,"Todtenhausen, Manfred",,MTodtenhausen,fdp,Bund,"[17, 19]",mtodtenhausen
+349,560467206,396,0,0.0,Pau,Petra,,,Bund,"Pau, Petra",,PetraPauMaHe,linke,Bund,"[14, 15, 16, 17, 18, 19]",petrapaumahe
+350,288696645,548,0,0.0,Ziemiak,Paul,,,Bund,"Ziemiak, Paul",,PaulZiemiak,cducsu,Bund,[19],paulziemiak
+351,282687385,74,0,0.0,Hartwig,Roland,,,Bund,"Hartwig, Roland",,R_Hartwig_AfD,afd,Bund,[19],r_hartwig_afd
+352,282195399,173,0,0.0,Badum,Lisa,,,Bund,"Badum, Lisa",,badulrichmartha,gruene,Bund,[19],badulrichmartha
+353,83474160,716,0,0.0,Steiniger,Johannes,,,Bund,"Steiniger, Johannes",,JoSteiniger,cducsu,Bund,"[18, 19]",josteiniger
+354,96783215,228,0,0.0,Schneider,Carsten,,,Bund,"Schneider, Carsten",,schneidercar,spd,Bund,"[14, 15, 16, 17, 18, 19]",schneidercar
+355,94363834,261,0,0.0,Gröhe,Hermann,,,Bund,"Gröhe, Hermann",,groehe,cducsu,Bund,"[13, 14, 15, 16, 17, 18, 19]",groehe
+356,93845554,194,0,0.0,Simon,Björn,,,Bund,"Simon, Björn",,BjoernSimon,cducsu,Bund,[19],bjoernsimon
+357,89209507,287,0,0.0,Hacker,Thomas,,,Bund,"Hacker, Thomas",,hacker_fdp,fdp,Bund,[19],hacker_fdp
+358,88630242,357,0,0.0,Krischer,Oliver,,,Bund,"Krischer, Oliver",,Oliver_Krischer,gruene,Bund,"[17, 18, 19]",oliver_krischer
+359,87281380,245,0,0.0,Hunko,Andrej,,,Bund,"Hunko, Andrej",,AndrejHunko,linke,Bund,"[17, 18, 19]",andrejhunko
+360,83795057,283,0,0.0,Schmid,Nils,,,Bund,"Schmid, Nils",,NilsSchmid,spd,Bund,[19],nilsschmid
+361,83342791,568,0,0.0,Özoğuz,Aydan,,,Bund,"Özoğuz, Aydan",,oezoguz,spd,Bund,"[17, 18, 19]",oezoguz
+362,104100946,227,0,0.0,Kühn,Stephan,,,Bund,"Kühn, Stephan",,stephankuehn,gruene,Bund,"[17, 18, 19]",stephankuehn
+363,81394072,212,0,0.0,Bull-Bischoff,Birke,,,Bund,"Bull-Bischoff, Birke",,Birke_Bull,linke,Bund,[19],birke_bull
+364,79228932,37,0,0.0,Mohrs,Falko,,,Bund,"Mohrs, Falko",,FalkoMohrs,spd,Bund,[19],falkomohrs
+365,77928749,13,0,0.0,Junge,Frank,,,Bund,"Junge, Frank",,jungeinberlin,spd,Bund,"[18, 19]",jungeinberlin
+366,75005687,303,0,0.0,Thomae,Stephan,,,Bund,"Thomae, Stephan",,StephanThomae,fdp,Bund,"[17, 19]",stephanthomae
+367,74837812,484,0,0.0,Pellmann,Sören,,,Bund,"Pellmann, Sören",,LINKEPELLI,linke,Bund,[19],linkepelli
+368,68920005,729,0,0.0,Renner,Martina,,,Bund,"Renner, Martina",,MartinaRenner,linke,Bund,"[18, 19]",martinarenner
+369,64994645,95,0,0.0,Ernst,Klaus,,,Bund,"Ernst, Klaus",,ernst_klaus,linke,Bund,"[16, 17, 18, 19]",ernst_klaus
+370,99268600,64,0,0.0,Boehringer,Peter,,,Bund,"Boehringer, Peter",,PeterBoehringer,afd,Bund,[19],peterboehringer
+371,106136813,3855,0,0.0,Buschmann,Marco,,,Bund,"Buschmann, Marco",,MarcoBuschmann,fdp,Bund,"[17, 19]",marcobuschmann
+372,257461232,181,0,0.0,Leidig,Sabine,,,Bund,"Leidig, Sabine",,SabineLeidig,linke,Bund,"[17, 18, 19]",sabineleidig
+373,159217491,47,0,0.0,Saathoff,Johann,,,Bund,"Saathoff, Johann",,Johann_Saathoff,spd,Bund,"[18, 19]",johann_saathoff
+374,231440493,54,0,0.0,Kaczmarek,Oliver,,,Bund,"Kaczmarek, Oliver",,KaczmarekOliver,spd,Bund,"[17, 18, 19]",kaczmarekoliver
+375,224630872,124,0,0.0,Werner,Katrin,,,Bund,"Werner, Katrin",,Katrin_Werner,linke,Bund,"[17, 18, 19]",katrin_werner
+376,194535434,354,0,0.0,Polat,Filiz,,,Bund,"Polat, Filiz",,filizgreen,gruene,Bund,[19],filizgreen
+377,179216369,19,0,0.0,Beeck,Jens,,,Bund,"Beeck, Jens",,jensbeeck,fdp,Bund,[19],jensbeeck
+378,170964436,150,0,0.0,Teuteberg,Linda,,,Bund,"Teuteberg, Linda",,LindaTeuteberg,fdp,Bund,[19],lindateuteberg
+379,162398888,64,0,0.0,Schreiner,Felix,,,Bund,"Schreiner, Felix",,felixschreiner,cducsu,Bund,[19],felixschreiner
+380,160906608,3,0,0.0,Fischer,Axel E.,,,Bund,"Fischer, Axel E.",,Axel_Fischer,cducsu,Bund,"[14, 15, 16, 17, 18, 19]",axel_fischer
+381,150372237,36,0,0.0,Brehmer,Heike,,,Bund,"Brehmer, Heike",,HeikeBrehmerMdB,cducsu,Bund,"[17, 18, 19]",heikebrehmermdb
+382,106684561,34,0,0.0,Vogt,Ute,,,Bund,"Vogt, Ute",,UteVogt,spd,Bund,"[13, 14, 15, 17, 18, 19]",utevogt
+383,150188536,56,0,0.0,Kurth,Markus,,,Bund,"Kurth, Markus",,markuskurthmdb,gruene,Bund,"[15, 16, 17, 18, 19]",markuskurthmdb
+384,143351769,59,0,0.0,Löbel,Nikolas,,,Bund,"Löbel, Nikolas",,NikolasLoebel,cducsu,Bund,[19],nikolasloebel
+385,143000381,202,0,0.0,Mihalic,Irene,,,Bund,"Mihalic, Irene",,IreneMihalic,gruene,Bund,"[18, 19]",irenemihalic
+386,140821364,561,0,0.0,Bär,Dorothee,,,Bund,"Bär, Dorothee",,DoroBaer,cducsu,Bund,"[15, 16, 17, 18, 19]",dorobaer
+387,133770069,27,0,0.0,Weisgerber,Anja,,,Bund,"Weisgerber, Anja",,anjaweisgerber,cducsu,Bund,"[18, 19]",anjaweisgerber
+388,115614153,511,0,0.0,Mattheis,Hilde,,,Bund,"Mattheis, Hilde",,HildeMattheis,spd,Bund,"[15, 16, 17, 18, 19]",hildemattheis
+389,107806591,82,0,0.0,Hessel,Katja,,,Bund,"Hessel, Katja",,fdp_hessel,fdp,Bund,[19],fdp_hessel
+390,998867063274921984,34,0,0.0,Dassler,Britta Katharina,,,Bund,"Dassler, Britta Katharina",,BrittaDassler,fdp,Bund,[19],brittadassler
