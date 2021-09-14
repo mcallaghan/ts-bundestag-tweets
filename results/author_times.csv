@@ -1,0 +1,418 @@
+,author_id,time,person__id,screen_name,party,person__surname,person__first_name,person__in_parlperiod,parltype,region,Number of tweets in 2021,Average time of first tweet
+0,1334019378,6.05,80004,CvStetten,cducsu,Stetten,Christian,"[15, 16, 17, 18, 19]",Bund,Baden-Württemberg,5,6:03
+1,824210890354520064,6.983333333333333,80811,ProfMaier,afd,Maier,Lothar,[19],Bund,Baden-Württemberg,4,6:59
+2,77928749,6.996666666666667,80498,jungeinberlin,spd,Junge,Frank,"[18, 19]",Bund,Mecklenburg-Vorpommern,13,6:60
+3,23447001,7.183333333333334,80317,AMattfeldt,cducsu,Mattfeldt,Andreas,"[17, 18, 19]",Bund,Lower Saxony,4,7:11
+4,2226815116,7.21757369614512,80588,Schwarz_MdB,spd,Schwarz,Andreas,"[18, 19]",Bund,Bavaria,976,7:13
+5,19177808,7.278571428571429,80879,Uwe_Schulz_AfD,afd,Schulz,Uwe,[19],Bund,Hesse,14,7:17
+6,22260144,7.5910052910052945,80383,petertauber,cducsu,Tauber,Peter,"[17, 18, 19]",Bund,Hesse,439,7:35
+7,58429842,7.65,79909,olavgutting,cducsu,Gutting,Olav,"[15, 16, 17, 18, 19]",Bund,Baden-Württemberg,114,7:39
+8,819914159915667456,7.672222222222222,80849,StephPilsinger,cducsu,Pilsinger,Stephan,[19],Bund,Bavaria,8,7:40
+9,36665085,7.673076923076922,80308,LischkaB,spd,Lischka,Burkhard,"[17, 18, 19]",Bund,Saxony-Anhalt,269,7:40
+10,4577700622,7.716666666666667,80243,MichaelFrieser,cducsu,Frieser,Michael,"[17, 18, 19]",Bund,Bavaria,1,7:43
+11,79228932,7.734615384615385,80822,FalkoMohrs,spd,Mohrs,Falko,[19],Bund,Lower Saxony,37,7:44
+12,146376562,7.88,80110,JensKoeppen,cducsu,Koeppen,Jens,"[16, 17, 18, 19]",Bund,Brandenburg,48,7:53
+13,3105025175,7.950877192982458,80759,Nicole_Hoechst,afd,Höchst,Nicole,[19],Bund,Rheinland-Pfalz,401,7:56
+14,925703909825548288,8.006028368794327,80724,MdB_Freihold,linke,Freihold,Brigitte,[19],Bund,Rheinland-Pfalz,99,8:00
+15,849060114388705280,8.097278911564628,80749,UdoHemmelgarn,afd,Hemmelgarn,Udo Theodor,[19],Bund,North Rhine-Westphalia,259,8:06
+16,328939758,8.103968253968258,79764,LangeMdB,spd,Lange,Christian,"[14, 15, 16, 17, 18, 19]",Bund,Baden-Württemberg,206,8:06
+17,916639458409242624,8.10691823899371,80810,JensMaierAfD,afd,Maier,Jens,[19],Bund,Saxony,182,8:06
+18,913358838736310272,8.12982456140351,80882,Th_Seitz_AfD,afd,Seitz,Thomas,[19],Bund,Baden-Württemberg,86,8:08
+19,998867063274921984,8.149999999999999,80708,BrittaDassler,fdp,Dassler,Britta Katharina,[19],Bund,Bavaria,34,8:09
+20,2618890032,8.151234567901234,80825,mrosek1958,afd,Mrosek,Andreas,[19],Bund,Saxony-Anhalt,177,8:09
+21,22908417,8.152991452991452,80309,JM_Luczak,cducsu,Luczak,Jan-Marco,"[19, 17, 18]",Bund,Berlin,624,8:09
+22,2596171296,8.160975609756097,80320,Conni_Moehring,linke,Möhring,Cornelia,"[17, 18, 19]",Bund,Schleswig-Holstein,459,8:10
+23,481393623,8.166666666666666,80242,FrankeEdgar,spd,Franke,Edgar,"[17, 18, 19]",Bund,Hesse,21,8:10
+24,3337459024,8.181609195402299,80593,stadler_svenja,spd,Stadler,Svenja,"[18, 19]",Bund,Lower Saxony,144,8:11
+25,1082464339,8.228787878787879,80551,SylviaPantel,cducsu,Pantel,Sylvia,"[18, 19]",Bund,North Rhine-Westphalia,59,8:14
+26,2443895924,8.238235294117645,80539,BetMueller,spd,Müller,Bettina,"[18, 19]",Bund,Hesse,113,8:14
+27,41548943,8.255747126436782,79858,KerstinAndreae,gruene,Andreae,Kerstin,"[15, 16, 17, 18, 19]",Bund,Baden-Württemberg,66,8:15
+28,83342791,8.259574468085104,80333,oezoguz,spd,Özoğuz,Aydan,"[17, 18, 19]",Bund,Hamburg,568,8:16
+29,36327895,8.259624413145541,80151,SoenkeRix,spd,Rix,Sönke,"[16, 17, 18, 19]",Bund,Schleswig-Holstein,252,8:16
+30,569257486,8.262698412698413,80432,MaikBeermann,cducsu,Beermann,Maik,"[18, 19]",Bund,Lower Saxony,136,8:16
+31,727782559,8.283706467661693,80460,MatthiasGastel,gruene,Gastel,Matthias,"[18, 19]",Bund,Baden-Württemberg,421,8:17
+32,24178198,8.291358024691359,79949,LoetzschMdB,linke,Lötzsch,Gesine,"[15, 16, 17, 18, 19]",Bund,Berlin,270,8:17
+33,848618993015500802,8.305208333333333,80706,GottfriedCurio,afd,Curio,Gottfried,[19],Bund,Berlin,38,8:18
+34,34214048,8.307882882882883,79560,meister_schafft,cducsu,Meister,Michael,"[13, 14, 15, 16, 17, 18, 19]",Bund,Hesse,240,8:18
+35,52994606,8.311212121212122,80401,matthiaszimmer,cducsu,Zimmer,Matthias,"[17, 18, 19]",Bund,Hesse,305,8:19
+36,2546790747,8.322868217054264,80776,uwe_kamann,afd,Kamann,Uwe,[19],Bund,North Rhine-Westphalia,577,8:19
+37,804064797977444352,8.32638888888889,80795,Dr_Rainer_Kraft,afd,Kraft,Rainer,[19],Bund,Bavaria,39,8:20
+38,2797812265,8.350458715596332,80056,Thomas_Bareiss,cducsu,Bareiß,Thomas,"[16, 17, 18, 19]",Bund,Baden-Württemberg,784,8:21
+39,99268600,8.360256410256413,80685,PeterBoehringer,afd,Boehringer,Peter,[19],Bund,Bavaria,64,8:22
+40,494809842,8.376356589147287,80738,Timon_Gremmels,spd,Gremmels,Timon,[19],Bund,Hesse,591,8:23
+41,810537151729373184,8.38,80888,DirkSpaniel,afd,Spaniel,Dirk,[19],Bund,Baden-Württemberg,31,8:23
+42,1019846605044936705,8.41317829457364,79978,DaniLudwigMdB,cducsu,Ludwig,Daniela,"[15, 16, 17, 18, 19]",Bund,Bavaria,385,8:25
+43,395912134,8.428333333333333,80358,armin_schuster,cducsu,Schuster,Armin,"[17, 18, 19]",Bund,Baden-Württemberg,43,8:26
+44,937678874095300609,8.429729729729738,80125,KatjaMast,spd,Mast,Katja,"[16, 17, 18, 19]",Bund,Baden-Württemberg,890,8:26
+45,382044198,8.43396464646465,80544,UlliNissen,spd,Nissen,Ulli,"[18, 19]",Bund,Hesse,420,8:26
+46,19108071,8.466666666666669,79875,HBraun,cducsu,Braun,Helge,"[15, 17, 18, 19]",Bund,Hesse,67,8:28
+47,368334555,8.475641025641027,80355,PSchnieder,cducsu,Schnieder,Patrick,"[17, 18, 19]",Bund,Rheinland-Pfalz,53,8:28
+48,1076269195,8.476086956521739,80473,sebast_hartmann,spd,Hartmann,Sebastian,"[18, 19]",Bund,North Rhine-Westphalia,83,8:28
+49,39709752,8.476328502415457,79849,KerstinGriese,spd,Griese,Kerstin,"[14, 15, 16, 17, 18, 19]",Bund,North Rhine-Westphalia,246,8:28
+50,277006619,8.479790660225436,80598,SteinekeCDU,cducsu,Steineke,Sebastian,"[18, 19]",Bund,Brandenburg,1504,8:28
+51,18103366,8.488949275362325,80281,MariaKlSchmeink,gruene,Klein-Schmeink,Maria,"[17, 18, 19]",Bund,North Rhine-Westphalia,1069,8:28
+52,1423622834,8.50310945273632,80449,EskenSaskia,spd,Esken,Saskia,"[18, 19]",Bund,Baden-Württemberg,1302,8:30
+53,729360191263780867,8.516666666666666,80696,Marcus_Buehl,afd,Bühl,Marcus,[19],Bund,Thuringia,111,8:31
+54,702653022,8.519047619047617,80373,SteffenSonja,spd,Steffen,Sonja Amalie,"[17, 18, 19]",Bund,Mecklenburg-Vorpommern,15,8:31
+55,21144568,8.54436152570481,80311,OlliLuksic,fdp,Luksic,Oliver,"[17, 19]",Bund,Saarland,1674,8:33
+56,2617281050,8.544444444444444,79687,Lothar_Binding,spd,Binding,Lothar,"[14, 15, 16, 17, 18, 19]",Bund,Baden-Württemberg,20,8:33
+57,17752770,8.553749999999997,80332,KonstantinNotz,gruene,Notz,Konstantin,"[17, 18, 19]",Bund,Schleswig-Holstein,1027,8:33
+58,194535434,8.564861111111108,80853,filizgreen,gruene,Polat,Filiz,[19],Bund,Lower Saxony,354,8:34
+59,16557497,8.566584967320264,80710,anked,linke,Domscheit-Berg,Anke,[19],Bund,Brandenburg,2399,8:34
+60,21267421,8.603666666666664,80748,KatrinHelling,fdp,Helling-Plahr,Katrin,[19],Bund,North Rhine-Westphalia,331,8:36
+61,996440442819502082,8.618181818181817,80764,DrHollnagel,afd,Hollnagel,Bruno,[19],Bund,Schleswig-Holstein,20,8:37
+62,912223443231428609,8.62674418604651,80794,SteffenKotre,afd,Kotré,Steffen,[19],Bund,Brandenburg,81,8:38
+63,728990858,8.637037037037036,80579,JanaSchimke,cducsu,Schimke,Jana,"[18, 19]",Bund,Brandenburg,113,8:38
+64,74837812,8.64227941176471,80844,LINKEPELLI,linke,Pellmann,Sören,[19],Bund,Saxony,484,8:39
+65,997138767763750912,8.644557823129253,80751,HerbrandMarkus,fdp,Herbrand,Markus,[19],Bund,North Rhine-Westphalia,148,8:39
+66,740178046649565184,8.654037800687288,80773,c_jung77,fdp,Jung,Christian,[19],Bund,Baden-Württemberg,1270,8:39
+67,26869088,8.6625,80372,franksteffel,cducsu,Steffel,Frank,"[17, 18, 19]",Bund,Berlin,19,8:40
+68,14784765,8.663064971751416,80816,FabioDeMasi,linke,De Masi,Fabio,[19],Bund,Hamburg,5483,8:40
+69,21618829,8.669230769230769,80840,josephineortleb,spd,Ortleb,Josephine,[19],Bund,Saarland,164,8:40
+70,170964436,8.685869565217393,80902,LindaTeuteberg,fdp,Teuteberg,Linda,[19],Bund,Brandenburg,150,8:41
+71,47049428,8.686666666666667,80414,BeateWaRo,gruene,Walter-Rosenheimer,Beate,"[17, 18, 19]",Bund,Bavaria,23,8:41
+72,932931561015730176,8.700351617440225,80820,MieruchMario,afd,Mieruch,Mario,[19],Bund,North Rhine-Westphalia,4197,8:42
+73,378693834,8.704232804232806,79447,peteraltmaier,cducsu,Altmaier,Peter,"[13, 14, 15, 16, 17, 18, 19]",Bund,Saarland,372,8:42
+74,292151515,8.715134099616858,80484,ThomasHitschler,spd,Hitschler,Thomas,"[18, 19]",Bund,Rheinland-Pfalz,761,8:43
+75,19257571,8.719444444444447,79977,FlorianPronold,spd,Pronold,Florian,"[15, 16, 17, 18, 19]",Bund,Bavaria,65,8:43
+76,861992050358616064,8.721990740740733,80818,Meyer_FDP,fdp,Meyer,Christoph,[19],Bund,Berlin,871,8:43
+77,15686106,8.723538011695906,80763,MatthiasHoehn,linke,Höhn,Matthias,[19],Bund,Saxony-Anhalt,398,8:43
+78,293522998,8.725925925925925,80168,Petra_Sitte_MdB,linke,Sitte,Petra,"[16, 17, 18, 19]",Bund,Saxony-Anhalt,159,8:44
+79,467381196,8.733184523809523,80518,KLeikert,cducsu,Leikert,Katja,"[18, 19]",Bund,Hesse,518,8:44
+80,23925041,8.749462365591398,80220,SteffenBilger,cducsu,Bilger,Steffen,"[17, 18, 19]",Bund,Baden-Württemberg,141,8:45
+81,831541837965967361,8.751190476190473,80889,Rene_Springer,afd,Springer,René,[19],Bund,Brandenburg,119,8:45
+82,107806591,8.758024691358024,80756,fdp_hessel,fdp,Hessel,Katja,[19],Bund,Bavaria,82,8:45
+83,68920005,8.76151079136691,80566,MartinaRenner,linke,Renner,Martina,"[18, 19]",Bund,Thuringia,729,8:46
+84,845282647261761536,8.763690476190476,80535,KlausMindrup,spd,Mindrup,Klaus,"[18, 19]",Bund,Berlin,416,8:46
+85,2758602415,8.766666666666667,80880,cdu_schweiger,cducsu,Schweiger,Torsten,[19],Bund,Saxony-Anhalt,7,8:46
+86,713361366858481664,8.766874135546336,80688,StBrandner,afd,Brandner,Stephan,[19],Bund,Thuringia,2510,8:46
+87,282687385,8.774000000000001,80744,R_Hartwig_AfD,afd,Hartwig,Roland,[19],Bund,North Rhine-Westphalia,74,8:46
+88,1513671236,8.775114155251144,80483,HHirte,cducsu,Hirte,Heribert,"[18, 19]",Bund,North Rhine-Westphalia,467,8:47
+89,1099159964,8.78888888888889,80537,KarstenMoering,cducsu,Möring,Karsten,"[18, 19]",Bund,North Rhine-Westphalia,18,8:47
+90,110385973,8.793478260869563,80590,TinoSorge,cducsu,Sorge,Tino,"[18, 19]",Bund,Saxony-Anhalt,215,8:48
+91,17469649,8.801618122977352,80439,larscastellucci,spd,Castellucci,Lars,"[18, 19]",Bund,Baden-Württemberg,438,8:48
+92,299650387,8.813613231552168,80003,jensspahn,cducsu,Spahn,Jens,"[15, 16, 17, 18, 19]",Bund,North Rhine-Westphalia,310,8:49
+93,2885729417,8.815277777777776,80597,Peter_Stein_CDU,cducsu,Stein,Peter,"[18, 19]",Bund,Mecklenburg-Vorpommern,551,8:49
+94,49450039,8.815777777777775,80543,DrAndreasNick,cducsu,Nick,Andreas,"[18, 19]",Bund,Rheinland-Pfalz,298,8:49
+95,28066013,8.825925925925926,80107,katjakipping,linke,Kipping,Katja,"[16, 17, 18, 19]",Bund,Saxony,1103,8:50
+96,15943222,8.826068376068376,79738,hubertus_heil,spd,Heil,Hubertus,"[14, 15, 16, 17, 18, 19]",Bund,Lower Saxony,322,8:50
+97,28784085,8.828042328042324,80570,MartinRosemann,spd,Rosemann,Martin,"[18, 19]",Bund,Baden-Württemberg,314,8:50
+98,4110374301,8.835897435897435,80158,SchickGerhard,gruene,Schick,Gerhard,"[16, 17, 18, 19]",Bund,Baden-Württemberg,111,8:50
+99,30050484,8.837152777777776,80166,FrankSchwabe,spd,Schwabe,Frank,"[16, 17, 18, 19]",Bund,North Rhine-Westphalia,558,8:50
+100,17922403,8.84145299145299,80201,ManuelSarrazin,gruene,Sarrazin,Manuel,"[16, 17, 18, 19]",Bund,Hamburg,147,8:50
+101,162398888,8.841666666666669,80875,felixschreiner,cducsu,Schreiner,Felix,[19],Bund,Baden-Württemberg,64,8:51
+102,3350681139,8.842320261437905,80845,victorperli,linke,Perli,Victor,[19],Bund,Lower Saxony,273,8:51
+103,809895794,8.854972375690602,80728,GtzFrmming,afd,Frömming,Götz,[19],Bund,Berlin,1237,8:51
+104,52024480,8.864805825242716,80493,DJanecek,gruene,Janecek,Dieter,"[18, 19]",Bund,Bavaria,2563,8:52
+105,569832889,8.865909090909092,80076,sigmargabriel,spd,Gabriel,Sigmar,"[16, 17, 18, 19]",Bund,Lower Saxony,75,8:52
+106,282195399,8.872033898305085,80669,badulrichmartha,gruene,Badum,Lisa,[19],Bund,Bavaria,173,8:52
+107,1906911697,8.876666666666667,80515,Dr_Roy_Kuehne,cducsu,Kühne,Roy,"[18, 19]",Bund,Lower Saxony,14,8:53
+108,140821364,8.881144781144785,79951,DoroBaer,cducsu,Bär,Dorothee,"[15, 16, 17, 18, 19]",Bund,Bavaria,561,8:53
+109,1131092102,8.883521657250471,80085,BriHasselmann,gruene,Haßelmann,Britta,"[16, 17, 18, 19]",Bund,North Rhine-Westphalia,1522,8:53
+110,748453543632330752,8.88407960199005,80693,LeniBreymaier,spd,Breymaier,Leni,[19],Bund,Baden-Württemberg,407,8:53
+111,2496104640,8.889122807017541,80846,TobiasMPeterka,afd,Peterka,Tobias Matthias,[19],Bund,Bavaria,289,8:53
+112,16706236,8.889937106918241,80803,svenlehmann,gruene,Lehmann,Sven,[19],Bund,North Rhine-Westphalia,675,8:53
+113,971040144420720641,8.892948717948716,80761,bhoffmann_mdb,gruene,Hoffmann,Bettina,[19],Bund,Hesse,126,8:54
+114,53351462,8.904444444444447,80347,TabeaRoessner,gruene,Rößner,Tabea,"[17, 18, 19]",Bund,Rheinland-Pfalz,382,8:54
+115,17870195,8.909018264840183,80586,K_SA,gruene,Schulz-Asche,Kordula,"[18, 19]",Bund,Hesse,809,8:55
+116,563706584,8.90921052631579,80415,MTodtenhausen,fdp,Todtenhausen,Manfred,"[17, 19]",Bund,North Rhine-Westphalia,100,8:55
+117,801803127762669568,8.91021021021021,80830,mueller_sepp,cducsu,Müller,Sepp,[19],Bund,Saxony-Anhalt,698,8:55
+118,2430137675,8.924300254452927,80622,MdbWendt,cducsu,Wendt,Marian,"[18, 19]",Bund,Saxony,714,8:55
+119,609972369,8.932820512820513,80908,UllmannMdB,fdp,Ullmann,Andrew,[19],Bund,Bavaria,356,8:56
+120,916324637046435840,8.938095238095238,80726,DrFriesenMdB,afd,Friesen,Anton,[19],Bund,Thuringia,239,8:56
+121,3384789731,8.941666666666665,80721,PeterFelser,afd,Felser,Peter,[19],Bund,Bavaria,98,8:56
+122,149299258,8.946514161220044,80800,Lambsdorff,fdp,Lambsdorff,Alexander,[19],Bund,North Rhine-Westphalia,1116,8:56
+123,38228691,8.947350993377484,80891,starkwatzinger,fdp,Stark-Watzinger,Bettina,[19],Bund,Hesse,627,8:56
+124,20840049,8.960512820512818,80200,W_SK,gruene,Strengmann-Kuhn,Wolfgang,"[16, 17, 18, 19]",Bund,Hesse,197,8:57
+125,796691290016583680,8.964583333333334,79907,GruebelMdb,cducsu,Grübel,Markus,"[15, 16, 17, 18, 19]",Bund,Baden-Württemberg,24,8:57
+126,43537931,8.966666666666667,80364,PatrickSensburg,cducsu,Sensburg,Patrick,"[17, 18, 19]",Bund,North Rhine-Westphalia,55,8:57
+127,827090742162100224,8.971596244131456,80877,ManjaSchuele,spd,Schüle,Manja,[19],Bund,Brandenburg,290,8:57
+128,741532130,8.990390390390388,80560,FlorianPost,spd,Post,Florian,"[18, 19]",Bund,Bavaria,1061,8:59
+129,19286748,9.0,78274,matschie,spd,Matschie,Christoph,"[12, 13, 14, 15, 19]",Bund,Thuringia,9,9:00
+130,1158585210,9.002806122448982,80474,MatthiasHauer,cducsu,Hauer,Matthias,"[18, 19]",Bund,North Rhine-Westphalia,3480,9:00
+131,1065899292,9.008781362007172,80302,berlinliebich,linke,Liebich,Stefan,"[17, 18, 19]",Bund,Berlin,1653,9:01
+132,4097559143,9.011952861952862,80429,katarinabarley,spd,Barley,Katarina,"[18, 19]",Bund,Rheinland-Pfalz,620,9:01
+133,89209507,9.013148148148145,80740,hacker_fdp,fdp,Hacker,Thomas,[19],Bund,Bavaria,287,9:01
+134,1490376331,9.01923076923077,80843,Frank_Pasemann,afd,Pasemann,Frank,[19],Bund,Saxony-Anhalt,79,9:01
+135,958634602905718785,9.022413793103446,80787,k_willkomm,fdp,Willkomm,Katharina,[19],Bund,North Rhine-Westphalia,262,9:01
+136,21287514,9.022569444444446,80390,voglerk,linke,Vogler,Kathrin,"[17, 18, 19]",Bund,North Rhine-Westphalia,878,9:01
+137,50932086,9.02751937984496,80167,rischwasu,spd,Schwarzelühr-Sutter,Rita,"[16, 17, 18, 19]",Bund,Baden-Württemberg,154,9:02
+138,806975237766135813,9.031720430107528,80876,mischrodi,spd,Schrodi,Michael,[19],Bund,Bavaria,304,9:02
+139,403735368,9.045471014492751,80257,hahnflo,cducsu,Hahn,Florian,"[17, 18, 19]",Bund,Bavaria,382,9:03
+140,944181149424898048,9.049722222222224,80771,Jacobi_AfD,afd,Jacobi,Fabian,[19],Bund,North Rhine-Westphalia,212,9:03
+141,3188225915,9.052380952380954,80778,KartesMdB,cducsu,Kartes,Torbjörn,[19],Bund,Rheinland-Pfalz,34,9:03
+142,449619355,9.053819444444448,80637,JensZSPD,spd,Zimmermann,Jens,"[18, 19]",Bund,Hesse,528,9:03
+143,46498076,9.057407407407405,80893,stonie_kiel,spd,Stein,Mathias,[19],Bund,Schleswig-Holstein,240,9:03
+144,1294725486,9.059259259259262,80173,KirstenTackmann,linke,Tackmann,Kirsten,"[16, 17, 18, 19]",Bund,Brandenburg,203,9:04
+145,20916357,9.072549019607843,80292,RuedigerKruse,cducsu,Kruse,Rüdiger,"[17, 18, 19]",Bund,Hamburg,50,9:04
+146,475275997,9.074491869918695,80798,KonstantinKuhle,fdp,Kuhle,Konstantin,[19],Bund,Lower Saxony,1038,9:04
+147,28327765,9.080180180180179,80788,DanielaKluckert,fdp,Kluckert,Daniela,[19],Bund,Berlin,138,9:05
+148,143000381,9.081321839080463,80534,IreneMihalic,gruene,Mihalic,Irene,"[18, 19]",Bund,North Rhine-Westphalia,202,9:05
+149,422569574,9.084649122807022,80723,DFoest,fdp,Föst,Daniel,[19],Bund,Bavaria,1794,9:05
+150,111054843,9.087892376681623,80323,NiemaMovassat,linke,Movassat,Niema,"[17, 18, 19]",Bund,North Rhine-Westphalia,3241,9:05
+151,2320519958,9.088536155202823,79682,DietmarBartsch,linke,Bartsch,Dietmar,"[14, 16, 17, 18, 19]",Bund,Mecklenburg-Vorpommern,617,9:05
+152,18189342,9.093466666666671,80155,f_schaeffler,fdp,Schäffler,Frank,"[16, 17, 19]",Bund,North Rhine-Westphalia,708,9:06
+153,17462171,9.09348370927318,80176,florian_toncar,fdp,Toncar,Florian,"[16, 17, 19]",Bund,Baden-Württemberg,567,9:06
+154,4265444913,9.095416666666669,80641,Norbert_MdB,linke,Müller,Norbert,"[18, 19]",Bund,Brandenburg,159,9:06
+155,16674128,9.096666666666668,80194,nouripour,gruene,Nouripour,Omid,"[16, 17, 18, 19]",Bund,Hesse,543,9:06
+156,951489275312443392,9.107692307692307,80001,SilberhornMdB,cducsu,Silberhorn,Thomas,"[15, 16, 17, 18, 19]",Bund,Bavaria,104,9:06
+157,874304935906729986,9.1077380952381,80792,carina_konrad,fdp,Konrad,Carina,[19],Bund,Rheinland-Pfalz,215,9:06
+158,52119203,9.119412878787886,79877,marcobuelow,spd,Bülow,Marco,"[15, 16, 17, 18, 19]",Bund,North Rhine-Westphalia,1717,9:07
+159,4875914470,9.119791666666668,80807,MdB_Lucassen,afd,Lucassen,Rüdiger,[19],Bund,North Rhine-Westphalia,40,9:07
+160,35846585,9.120408163265306,80206,EvaHoegl,spd,Högl,Eva,"[16, 17, 18, 19]",Bund,Berlin,256,9:07
+161,257461232,9.121917808219179,80298,SabineLeidig,linke,Leidig,Sabine,"[17, 18, 19]",Bund,Hesse,181,9:07
+162,2357675876,9.132222222222222,80766,OWvonHoltz,gruene,Holtz,Ottmar,[19],Bund,Lower Saxony,94,9:08
+163,81394072,9.132786885245903,80697,Birke_Bull,linke,Bull-Bischoff,Birke,[19],Bund,Saxony-Anhalt,212,9:08
+164,409203792,9.132805907172996,79996,UweSchummer,cducsu,Schummer,Uwe,"[17, 18, 19, 15, 16]",Bund,North Rhine-Westphalia,1357,9:08
+165,1421571306,9.139487179487178,80331,NordMdb,linke,Nord,Thomas,"[17, 18, 19]",Bund,Brandenburg,409,9:08
+166,22755312,9.142105263157896,80779,KemmerichThL,fdp,Kemmerich,Thomas L.,[19],Bund,Thuringia,138,9:09
+167,1108382916,9.142857142857142,80903,EUTheurer,fdp,Theurer,Michael,[19],Bund,Baden-Württemberg,269,9:09
+168,814970546366611457,9.148913043478261,80704,JoanaCotar,afd,Cotar,Joana,[19],Bund,Hesse,1680,9:09
+169,917756296555892736,9.163888888888891,80690,JuergenBraunAfD,afd,Braun,Jürgen,[19],Bund,Baden-Württemberg,700,9:10
+170,44359035,9.171990740740737,80328,Ingrid_Nestle,gruene,Nestle,Ingrid,"[17, 19]",Bund,Schleswig-Holstein,290,9:10
+171,37105136,9.1725,80270,tj_tweets,cducsu,Jarzombek,Thomas,"[17, 18, 19]",Bund,North Rhine-Westphalia,336,9:10
+172,159217491,9.172727272727274,80574,Johann_Saathoff,spd,Saathoff,Johann,"[18, 19]",Bund,Lower Saxony,47,9:10
+173,150372237,9.175000000000002,80228,HeikeBrehmerMdB,cducsu,Brehmer,Heike,"[17, 18, 19]",Bund,Saxony-Anhalt,36,9:11
+174,1114675538,9.179317269076297,79796,MiRo_SPD,spd,Roth,Michael,"[14, 15, 16, 17, 18, 19]",Bund,Hesse,990,9:11
+175,18044683,9.179787234042555,79895,Otto_Fricke,fdp,Fricke,Otto,"[15, 16, 17, 19]",Bund,North Rhine-Westphalia,1255,9:11
+176,445375409,9.182380952380953,80219,Peter_Beyer,cducsu,Beyer,Peter,"[17, 18, 19]",Bund,North Rhine-Westphalia,88,9:11
+177,925657781759332353,9.186340206185566,80420,reinholdmdb,fdp,Reinhold,Hagen,"[17, 19]",Bund,Mecklenburg-Vorpommern,995,9:11
+178,41840905,9.18888888888889,80325,NadineSchoen,cducsu,Schön,Nadine,"[17, 18, 19]",Bund,Saarland,70,9:11
+179,516783036,9.190624999999999,80288,danielakolbe,spd,Kolbe,Daniela,"[17, 18, 19]",Bund,Saxony,296,9:11
+180,18160122,9.196747967479673,80569,DennisRohde,spd,Rohde,Dennis,"[18, 19]",Bund,Lower Saxony,332,9:12
+181,928335737803722753,9.19782608695652,80850,christophploss,cducsu,Ploß,Christoph,[19],Bund,Hamburg,408,9:12
+182,39999872,9.20536398467433,80180,kaiwegner,cducsu,Wegner,Kai,"[16, 17, 18, 19]",Bund,Berlin,349,9:12
+183,23248102,9.211394557823132,80509,CanselK,spd,Kiziltepe,Cansel,"[18, 19]",Bund,Berlin,515,9:13
+184,83474160,9.212601626016259,80599,JoSteiniger,cducsu,Steiniger,Johannes,"[18, 19]",Bund,Rheinland-Pfalz,716,9:13
+185,2192588903,9.213333333333333,80716,TErndl,cducsu,Erndl,Thomas,[19],Bund,Bavaria,94,9:13
+186,426403057,9.213605442176872,80231,ch_buchholz,linke,Buchholz,Christine,"[17, 18, 19]",Bund,Hesse,167,9:13
+187,937403112,9.214666666666666,80828,GruenClaudia,gruene,Müller,Claudia,[19],Bund,Mecklenburg-Vorpommern,597,9:13
+188,18880634,9.216222222222225,80899,KatjaSuding,fdp,Suding,Katja,[19],Bund,Hamburg,321,9:13
+189,16255941,9.216666666666665,80045,larsklingbeil,spd,Klingbeil,Lars,"[15, 17, 18, 19]",Bund,Lower Saxony,306,9:13
+190,288696645,9.217385057471265,80922,PaulZiemiak,cducsu,Ziemiak,Paul,[19],Bund,North Rhine-Westphalia,548,9:13
+191,940585440746328064,9.219507575757577,80874,MdB_Schreiber,linke,Schreiber,Eva-Maria,[19],Bund,Bavaria,310,9:13
+192,24158261,9.22847222222222,80808,HeikoMaas,spd,Maas,Heiko,[19],Bund,Saarland,427,9:14
+194,17675072,9.233333333333333,80878,MartinSchulz,spd,Schulz,Martin,[19],Bund,North Rhine-Westphalia,67,9:14
+193,1862781722,9.233333333333333,80731,axelgehrke,afd,Gehrke,Axel,[19],Bund,Schleswig-Holstein,2,9:14
+195,841412635270762496,9.235395189003436,80916,h_weyel,afd,Weyel,Harald,[19],Bund,North Rhine-Westphalia,522,9:14
+196,2479436480,9.240277777777779,80624,Kai_Whittaker,cducsu,Whittaker,Kai,"[18, 19]",Bund,Baden-Württemberg,291,9:14
+197,2805274855,9.240409683426442,80454,fritzfelgentreu,spd,Felgentreu,Fritz,"[18, 19]",Bund,Berlin,3231,9:14
+198,32323724,9.242679127725857,80437,fbrantner,gruene,Brantner,Franziska,"[18, 19]",Bund,Baden-Württemberg,607,9:15
+199,3043727333,9.246666666666666,80672,BerndBaumannAfD,afd,Baumann,Bernd,[19],Bund,Hamburg,25,9:15
+200,93845554,9.249283154121864,80884,BjoernSimon,cducsu,Simon,Björn,[19],Bund,Hesse,194,9:15
+201,1143130812,9.25058823529412,80514,ChrisKuehn_mdb,gruene,Kühn,Christian,"[18, 19]",Bund,Baden-Württemberg,278,9:15
+202,947740210036641793,9.250660066006597,80540,Mi_Muentefering,spd,Müntefering,Michelle,"[18, 19]",Bund,North Rhine-Westphalia,349,9:15
+203,21197524,9.251587301587302,80411,tobiaslindner,gruene,Lindner,Tobias,"[17, 18, 19]",Bund,Rheinland-Pfalz,327,9:15
+204,19738866,9.254436450839329,80239,katjadoerner,gruene,Dörner,Katja,"[17, 18, 19]",Bund,North Rhine-Westphalia,558,9:15
+205,136266976,9.255984848484848,80682,lgbeutin,linke,Beutin,Lorenz Gösta,[19],Bund,Schleswig-Holstein,5058,9:15
+206,797137333820784640,9.256060606060606,80703,Tino_Chrupalla,afd,Chrupalla,Tino,[19],Bund,Saxony,132,9:15
+207,857906951707127808,9.260805860805858,80686,JBrandenburgFDP,fdp,Brandenburg,Jens,[19],Bund,Baden-Württemberg,449,9:16
+208,600984834,9.262499999999998,80289,JuttaKrellmann,linke,Krellmann,Jutta,"[17, 18, 19]",Bund,Lower Saxony,55,9:16
+209,808400627084705792,9.26415525114155,80674,DerDanyal,gruene,Bayaz,Danyal,[19],Bund,Baden-Württemberg,852,9:16
+210,231440493,9.264705882352944,80272,KaczmarekOliver,spd,Kaczmarek,Oliver,"[17, 18, 19]",Bund,North Rhine-Westphalia,54,9:16
+211,976421048,9.266190476190475,80642,A_Gloeckner,spd,Glöckner,Angelika,"[18, 19]",Bund,Rheinland-Pfalz,104,9:16
+212,83795057,9.268075117370891,80868,NilsSchmid,spd,Schmid,Nils,[19],Bund,Baden-Württemberg,283,9:16
+213,966707365893558273,9.272727272727273,80760,GeroHocker,fdp,Hocker,Gero Clemens,[19],Bund,Lower Saxony,98,9:16
+214,16361044,9.272843822843818,80020,wanderwitz,cducsu,Wanderwitz,Marco,"[15, 16, 17, 18, 19]",Bund,Saxony,1036,9:16
+215,115614153,9.273290598290599,79953,HildeMattheis,spd,Mattheis,Hilde,"[15, 16, 17, 18, 19]",Bund,Baden-Württemberg,511,9:16
+216,930725836482928640,9.27640692640693,80869,Schmidt_MdB,gruene,Schmidt,Stefan,[19],Bund,Bavaria,193,9:17
+217,815699423057637381,9.277999999999999,80742,M_HarderKuehnel,afd,Harder-Kühnel,Mariana Iris,[19],Bund,Hesse,69,9:17
+218,15722010,9.283050847457629,80445,katdro,gruene,Dröge,Katharina,"[18, 19]",Bund,North Rhine-Westphalia,422,9:17
+219,106684561,9.289393939393939,79649,UteVogt,spd,Vogt,Ute,"[13, 14, 15, 17, 18, 19]",Bund,Baden-Württemberg,34,9:17
+220,44608858,9.289473684210526,80750,MarcHenrichmann,cducsu,Henrichmann,Marc,[19],Bund,North Rhine-Westphalia,48,9:17
+221,33071479,9.28996913580247,80348,Erwin_Rueddel,cducsu,Rüddel,Erwin,"[17, 18, 19]",Bund,Rheinland-Pfalz,449,9:17
+222,57293969,9.291860465116278,79861,soerenbartol,spd,Bartol,Sören,"[15, 16, 17, 18, 19]",Bund,Hesse,213,9:18
+223,21404382,9.296118721461188,80297,CarenLay,linke,Lay,Caren,"[17, 18, 19]",Bund,Saxony,524,9:18
+224,920193967937019904,9.29736842105263,80920,ChrWirthMdB,afd,Wirth,Christian,[19],Bund,Saarland,61,9:18
+225,104100946,9.299999999999997,80294,stephankuehn,gruene,Kühn,Stephan,"[17, 18, 19]",Bund,Saxony,227,9:18
+226,1294532364,9.314814814814815,80547,Florian_Ossner,cducsu,Oßner,Florian,"[18, 19]",Bund,Bavaria,65,9:19
+227,17229513,9.31505376344086,79548,SteffiLemke,gruene,Lemke,Steffi,"[13, 14, 18, 19]",Bund,Saxony-Anhalt,339,9:19
+228,805308596,9.315798611111108,80894,Beatrix_vStorch,afd,Storch,Beatrix,[19],Bund,Berlin,293,9:19
+229,1182878557,9.317647058823532,80542,AlexanderSNeu,linke,Neu,Alexander S.,"[18, 19]",Bund,North Rhine-Westphalia,176,9:19
+230,943082490482262016,9.3203125,80898,margit_stumpp,gruene,Stumpp,Margit,[19],Bund,Baden-Württemberg,511,9:19
+231,810957560723505152,9.322388059701495,80700,PetrBystronAfD,afd,Bystron,Petr,[19],Bund,Bavaria,419,9:19
+232,976107205849206784,9.326562499999998,80664,aggelidis_fdp,fdp,Aggelidis,Grigorios,[19],Bund,Lower Saxony,117,9:20
+233,1475734592,9.329738562091503,80610,julia_verlinden,gruene,Verlinden,Julia,"[18, 19]",Bund,Lower Saxony,297,9:20
+234,19909974,9.338043478260872,80284,PascalKober,fdp,Kober,Pascal,"[17, 19]",Bund,Baden-Württemberg,173,9:20
+235,560467206,9.339230769230774,79789,PetraPauMaHe,linke,Pau,Petra,"[14, 15, 16, 17, 18, 19]",Bund,Berlin,396,9:20
+236,224630872,9.344230769230766,80397,Katrin_Werner,linke,Werner,Katrin,"[17, 18, 19]",Bund,Rheinland-Pfalz,124,9:21
+237,805823950253150208,9.34950980392157,80679,MarcBernhardAfD,afd,Bernhard,Marc,[19],Bund,Baden-Württemberg,186,9:21
+238,3577737256,9.351282051282052,80607,CarstenTraeger,spd,Träger,Carsten,"[18, 19]",Bund,Bavaria,48,9:21
+239,3017602065,9.352083333333333,80506,GabyKatzmarek,spd,Katzmarek,Gabriele,"[18, 19]",Bund,Baden-Württemberg,30,9:21
+240,850993608,9.352469135802469,80729,SylviaGabelmann,linke,Gabelmann,Sylvia,[19],Bund,North Rhine-Westphalia,62,9:21
+241,20877217,9.358145363408521,79851,UlrichKelber,spd,Kelber,Ulrich,"[14, 15, 16, 17, 18, 19]",Bund,North Rhine-Westphalia,1164,9:21
+242,4130621842,9.364583333333332,80727,Frohnmaier_AfD,afd,Frohnmaier,Markus,[19],Bund,Baden-Württemberg,33,9:22
+243,866425075,9.364864864864861,80250,NicoleGohlke,linke,Gohlke,Nicole,"[17, 18, 19]",Bund,Bavaria,467,9:22
+244,874917828436078592,9.3734375,80393,DanyWagner_DA,gruene,Wagner,Daniela,"[17, 19]",Bund,Hesse,82,9:22
+245,955357684013953025,9.381944444444446,80777,KirstenKappert,gruene,Kappert-Gonther,Kirsten,[19],Bund,Bremen,260,9:23
+246,1286011081,9.383333333333335,80737,KayGottschalk1,afd,Gottschalk,Kay,[19],Bund,North Rhine-Westphalia,73,9:23
+247,474013625,9.385714285714286,80113,KottingUhl,gruene,Kotting-Uhl,Sylvia,"[16, 17, 18, 19]",Bund,Baden-Württemberg,12,9:23
+248,15630931,9.390838206627684,80388,johannesvogel,fdp,Vogel,Johannes,"[17, 19]",Bund,North Rhine-Westphalia,2036,9:23
+249,849012308,9.395357142857138,80859,b_riexinger,linke,Riexinger,Bernd,[19],Bund,Baden-Württemberg,373,9:24
+250,28089973,9.395833333333332,80841,josefoster,cducsu,Oster,Josef,[19],Bund,Rheinland-Pfalz,14,9:24
+251,1425265488,9.40289855072463,79941,RenateKuenast,gruene,Künast,Renate,"[15, 16, 17, 18, 19]",Bund,Berlin,2413,9:24
+252,29540300,9.41031746031746,80897,bstrasser,fdp,Strasser,Benjamin,[19],Bund,Baden-Württemberg,194,9:25
+253,17483463,9.41212121212121,80266,ManuelHoeferlin,fdp,Höferlin,Manuel,"[17, 19]",Bund,Rheinland-Pfalz,88,9:25
+254,314534724,9.429710144927538,80817,pascalmeiser,linke,Meiser,Pascal,[19],Bund,Berlin,161,9:26
+255,828943222432997376,9.433333333333334,80866,WSchinnenburg,fdp,Schinnenburg,Wieland,[19],Bund,Hamburg,76,9:26
+256,64994645,9.433333333333334,80074,ernst_klaus,linke,Ernst,Klaus,"[16, 17, 18, 19]",Bund,Bavaria,95,9:26
+257,17960911,9.44702380952381,79962,smuellermdb,cducsu,Müller,Stefan,"[15, 16, 17, 18, 19]",Bund,Bavaria,115,9:27
+258,849567328899616768,9.448333333333334,80780,AchimKesslerMdB,linke,Kessler,Achim,[19],Bund,Hesse,361,9:27
+259,800457587510476800,9.448405797101454,80665,AkbulutGokay,linke,Akbulut,Gökay,[19],Bund,Baden-Württemberg,311,9:27
+260,828623998921629696,9.449824561403508,80678,nicolabeerfdp,fdp,Beer,Nicola,[19],Bund,Hesse,317,9:27
+261,984048002967982080,9.46535087719298,80832,theliberalfrank,fdp,Müller-Rosentritt,Frank,[19],Bund,Saxony,287,9:28
+262,2179010672,9.466379310344827,80427,ABaerbock,gruene,Baerbock,Annalena,"[18, 19]",Bund,Brandenburg,212,9:28
+263,426582569,9.468039215686275,80732,StefanGelbhaar,gruene,Gelbhaar,Stefan,[19],Bund,Berlin,493,9:28
+264,172269309,9.473972602739726,80315,agnieszka_mdb,gruene,Brugger,Agnieszka,"[17, 18, 19]",Bund,Baden-Württemberg,343,9:28
+265,143882918,9.477777777777774,80886,HESommer,linke,Sommer,Helin Evrim,[19],Bund,Berlin,632,9:28
+266,110368456,9.478253119429588,80077,KaiGehring,gruene,Gehring,Kai,"[16, 17, 18, 19]",Bund,North Rhine-Westphalia,1353,9:28
+267,779601750789656576,9.48,80467,FGuentzler,cducsu,Güntzler,Fritz,"[18, 19]",Bund,Lower Saxony,22,9:28
+268,833398209053605888,9.485080645161291,80914,Alice_Weidel,afd,Weidel,Alice,[19],Bund,Baden-Württemberg,223,9:28
+269,88630242,9.485185185185184,80290,Oliver_Krischer,gruene,Krischer,Oliver,"[17, 18, 19]",Bund,North Rhine-Westphalia,357,9:28
+270,802968497831739392,9.496153846153842,80687,BraFDP,fdp,Brandenburg,Mario,[19],Bund,Rheinland-Pfalz,285,9:30
+271,22364234,9.497,80719,MarcusFaber,fdp,Faber,Marcus,[19],Bund,Saxony-Anhalt,150,9:30
+272,1009457791554281473,9.505555555555555,80924,MarjaVoellers,spd,Völlers,Marja-Liisa,[19],Bund,Lower Saxony,88,9:30
+273,106136813,9.50829457364341,80232,MarcoBuschmann,fdp,Buschmann,Marco,"[17, 19]",Bund,North Rhine-Westphalia,3855,9:30
+274,2545743991,9.510298102981023,80855,M_Reichardt_AfD,afd,Reichardt,Martin,[19],Bund,Saxony-Anhalt,1012,9:31
+275,316355056,9.514285714285714,80441,KarambaDiaby,spd,Diaby,Karamba,"[18, 19]",Bund,Saxony-Anhalt,73,9:31
+276,17561226,9.514511494252876,80752,torstenherbst,fdp,Herbst,Torsten,[19],Bund,Saxony,507,9:31
+277,4017796049,9.515151515151514,80594,stamm_fibich,spd,Stamm-Fibich,Martina,"[18, 19]",Bund,Bavaria,51,9:31
+278,587862375,9.524720357941835,80675,LieblingXhain,gruene,Bayram,Canan,[19],Bund,Berlin,564,9:31
+279,37642893,9.527142857142858,80202,ChristianHirte,cducsu,Hirte,Christian,"[16, 17, 18, 19]",Bund,Thuringia,221,9:32
+280,1006099793888841729,9.527380952380954,80881,mseesternpauly,fdp,Seestern-Pauly,Matthias,[19],Bund,Lower Saxony,22,9:32
+281,51483238,9.53076923076923,80247,thomasgebhart,cducsu,Gebhart,Thomas,"[17, 18, 19]",Bund,Rheinland-Pfalz,32,9:32
+282,60630139,9.536197916666664,80044,monikalazar,gruene,Lazar,Monika,"[15, 16, 17, 18, 19]",Bund,Saxony,296,9:32
+283,995228494023086080,9.544270833333336,80784,MdBKlein,fdp,Klein,Karsten,[19],Bund,Bavaria,207,9:33
+284,858362895075340288,9.546818181818185,80913,sandra_weeser,fdp,Weeser,Sandra,[19],Bund,Rheinland-Pfalz,1121,9:33
+285,3522875063,9.548888888888888,80907,Toens_NRW04,spd,Töns,Markus,[19],Bund,North Rhine-Westphalia,74,9:33
+286,19438957,9.553666666666665,80215,baerbelbas,spd,Bas,Bärbel,"[17, 18, 19]",Bund,North Rhine-Westphalia,132,9:33
+287,42698498,9.55622489959839,80277,RKiesewetter,cducsu,Kiesewetter,Roderich,"[17, 18, 19]",Bund,Baden-Württemberg,546,9:33
+288,3236928208,9.55873015873016,80892,AndreasSteier,cducsu,Steier,Andreas,[19],Bund,Rheinland-Pfalz,119,9:34
+289,913327957602693121,9.560648148148148,80677,olafinderbeek,fdp,In der Beek,Olaf,[19],Bund,North Rhine-Westphalia,272,9:34
+290,4164673821,9.56078431372549,80111,jankortemdb,linke,Korte,Jan,"[16, 17, 18, 19]",Bund,Saxony-Anhalt,510,9:34
+291,296121556,9.561111111111112,80478,GaHeinrich,spd,Heinrich,Gabriela,"[18, 19]",Bund,Bavaria,16,9:34
+292,974589289689427968,9.563172043010752,80329,_MartinNeumann,fdp,Neumann,Martin,"[17, 19]",Bund,Brandenburg,488,9:34
+293,1003656299589132291,9.566117216117213,80917,WolfgangWiehle,afd,Wiehle,Wolfgang,[19],Bund,Bavaria,307,9:34
+294,882929865535705088,9.568095238095236,80438,BrunnerGanzOhr,spd,Brunner,Karl-Heinz,"[18, 19]",Bund,Bavaria,100,9:34
+295,75005687,9.570138888888891,80384,StephanThomae,fdp,Thomae,Stephan,"[17, 19]",Bund,Bavaria,303,9:34
+296,881480498043916288,9.572222222222225,80699,Buettner_MdB,afd,Büttner,Matthias,[19],Bund,Saxony-Anhalt,52,9:34
+297,16325209,9.574242424242424,79027,solms,fdp,Solms,Hermann Otto,"[9, 10, 11, 12, 13, 14, 15, 16, 17, 19]",Bund,Hesse,45,9:34
+298,19108766,9.577134986225893,79573,cem_oezdemir,gruene,Özdemir,Cem,"[13, 14, 18, 19]",Bund,Baden-Württemberg,620,9:35
+299,454981027,9.577430555555553,80804,helgelindh,spd,Lindh,Helge,[19],Bund,North Rhine-Westphalia,177,9:35
+300,1872648764,9.578571428571427,80443,dittmarsabine,spd,Dittmar,Sabine,"[18, 19]",Bund,Bavaria,23,9:35
+301,960463104537657344,9.579166666666666,80238,DjirSarai,fdp,Djir-Sarai,Bijan,"[17, 19]",Bund,North Rhine-Westphalia,126,9:35
+302,862747349277450240,9.579166666666667,80662,mvabercron,cducsu,Abercron,Michael,[19],Bund,Schleswig-Holstein,43,9:35
+303,885167849685340161,9.57932098765432,80718,DrMEspendiller,afd,Espendiller,Michael,[19],Bund,North Rhine-Westphalia,328,9:35
+304,984735466783232000,9.581600000000002,80860,ManuelaRottman,gruene,Rottmann,Manuela,[19],Bund,Bavaria,1499,9:35
+305,918405860862382082,9.586111111111112,80883,Martin_Sichert,afd,Sichert,Martin,[19],Bund,Bavaria,45,9:35
+306,17343047,9.591445427728615,80279,sven_kindler,gruene,Kindler,Sven-Christian,"[17, 18, 19]",Bund,Lower Saxony,780,9:35
+307,626287930,9.61170798898072,79728,GoeringEckardt,gruene,Göring-Eckardt,Katrin,"[14, 15, 16, 17, 18, 19]",Bund,Thuringia,649,9:37
+308,122104353,9.612752525252532,80306,c_lindner,fdp,Lindner,Christian,"[17, 19]",Bund,North Rhine-Westphalia,461,9:37
+309,38467606,9.61410256410256,80259,juergenhardt,cducsu,Hardt,Jürgen,"[17, 18, 19]",Bund,North Rhine-Westphalia,145,9:37
+310,409258073,9.615957446808507,80605,michael_thews,spd,Thews,Michael,"[18, 19]",Bund,North Rhine-Westphalia,533,9:37
+311,176104376,9.617222222222223,80670,SBarrientosK,linke,Barrientos,Simone,[19],Bund,Bavaria,193,9:37
+312,1296544153,9.622222222222224,80862,th_sattelberger,fdp,Sattelberger,Thomas,[19],Bund,Bavaria,902,9:37
+313,52431948,9.624166666666667,80409,ebner_sha,gruene,Ebner,Harald,"[17, 18, 19]",Bund,Baden-Württemberg,126,9:37
+314,25980076,9.627500000000001,80212,cad59,fdp,Aschenberg-Dugnus,Christine,"[17, 19]",Bund,Schleswig-Holstein,84,9:38
+315,193629792,9.628484848484849,80040,BaerbelKofler,spd,Kofler,Bärbel,"[15, 16, 17, 18, 19]",Bund,Bavaria,191,9:38
+316,389682667,9.635446009389671,80391,JoWadephul,cducsu,Wadephul,Johann David,"[17, 18, 19]",Bund,Schleswig-Holstein,380,9:38
+317,50315139,9.6375,79990,andreasscheuer,cducsu,Scheuer,Andreas,"[15, 16, 17, 18, 19]",Bund,Bavaria,91,9:38
+318,1399764944,9.643859649122808,80549,oezdemir_spd,spd,Özdemir,Mahmut,"[18, 19]",Bund,North Rhine-Westphalia,127,9:39
+319,3930477322,9.646064814814812,80793,KorkmazGT,spd,Korkmaz,Elvan,[19],Bund,North Rhine-Westphalia,280,9:39
+320,480623844,9.651515151515154,80673,MargareteBause,gruene,Bause,Margarete,[19],Bund,Bavaria,75,9:39
+321,1117749912,9.651666666666667,80559,Achim_P,spd,Post,Achim,"[18, 19]",Bund,North Rhine-Westphalia,356,9:39
+322,485751594,9.662206572769948,79818,JTrittin,gruene,Trittin,Jürgen,"[14, 15, 16, 17, 18, 19]",Bund,Lower Saxony,781,9:40
+323,22125770,9.665238095238095,79702,ekindeligoez,gruene,Deligöz,Ekin,"[14, 15, 16, 17, 18, 19]",Bund,Bavaria,421,9:40
+324,3047392319,9.684773662551438,80895,MAStrackZi,fdp,Strack-Zimmermann,Marie-Agnes,[19],Bund,North Rhine-Westphalia,1356,9:41
+325,16696924,9.685470085470087,80848,tpflueger,linke,Pflüger,Tobias,[19],Bund,Baden-Württemberg,107,9:41
+326,38001527,9.694202898550724,80230,rbrinkhaus,cducsu,Brinkhaus,Ralph,"[17, 18, 19]",Bund,North Rhine-Westphalia,87,9:42
+327,569166756,9.698472222222225,80336,lisapaus,gruene,Paus,Lisa,"[17, 18, 19]",Bund,Berlin,876,9:42
+328,867351565757239296,9.702564102564102,80464,UliGroetsch,spd,Grötsch,Uli,"[18, 19]",Bund,Bavaria,150,9:42
+329,784760007275515904,9.706540084388186,80137,MuellerChemnitz,spd,Müller,Detlef,"[16, 18, 19]",Bund,Saxony,643,9:42
+330,1117526742,9.710714285714285,80359,s_schwartze,spd,Schwartze,Stefan,"[17, 18, 19]",Bund,North Rhine-Westphalia,60,9:43
+331,959105406416162823,9.711309523809522,80276,KatjaKeul,gruene,Keul,Katja,"[17, 18, 19]",Bund,Lower Saxony,82,9:43
+332,17363943,9.71875,80576,ulle_schauws,gruene,Schauws,Ulle,"[18, 19]",Bund,North Rhine-Westphalia,374,9:43
+333,4819478705,9.718831168831166,80663,DorisAchelwilm,linke,Achelwilm,Doris,[19],Bund,Bremen,271,9:43
+334,94363834,9.723263888888889,79494,groehe,cducsu,Gröhe,Hermann,"[13, 14, 15, 16, 17, 18, 19]",Bund,North Rhine-Westphalia,261,9:43
+335,53426644,9.72557471264368,80326,GrueneBeate,gruene,Müller-Gemmeke,Beate,"[17, 18, 19]",Bund,Baden-Württemberg,258,9:44
+336,825069798140833794,9.736158192090398,80767,HoubenReinhard,fdp,Houben,Reinhard,[19],Bund,North Rhine-Westphalia,195,9:44
+337,42401449,9.747435897435896,80054,NielsAnnen,spd,Annen,Niels,"[16, 18, 19]",Bund,Hamburg,515,9:45
+338,935456332655874048,9.750894854586127,80909,G_UllrichFDP,fdp,Ullrich,Gerald,[19],Bund,Thuringia,605,9:45
+339,2405039875,9.756666666666666,80644,RonjaKemmer,cducsu,Kemmer,Ronja,"[18, 19]",Bund,Baden-Württemberg,46,9:45
+340,1617177360,9.766666666666662,80702,annachristmann,gruene,Christmann,Anna,[19],Bund,Baden-Württemberg,351,9:46
+341,1543429536,9.766814159292034,80689,michel_brandt_,linke,Brandt,Michel,[19],Bund,Baden-Württemberg,384,9:46
+342,3635730797,9.769871794871797,80520,DerLenzMdB,cducsu,Lenz,Andreas,"[18, 19]",Bund,Bavaria,451,9:46
+343,930422173478608903,9.77207207207207,80858,reuther_bernd,fdp,Reuther,Bernd,[19],Bund,North Rhine-Westphalia,110,9:46
+344,888289790,9.77675438596491,77601,GregorGysi,linke,Gysi,Gregor,"[11, 12, 13, 14, 16, 17, 18, 19]",Bund,Berlin,147,9:47
+345,935554963639558145,9.777777777777777,80698,busen_mdb,fdp,Busen,Karlheinz,[19],Bund,North Rhine-Westphalia,5,9:47
+346,51752254,9.785066666666667,80274,StefanKaufmann,cducsu,Kaufmann,Stefan,"[17, 18, 19]",Bund,Baden-Württemberg,791,9:47
+347,865920519668989955,9.789506172839506,80785,NKleinwaechter,afd,Kleinwächter,Norbert,[19],Bund,Brandenburg,170,9:47
+348,948958759560376320,9.818589743589742,80368,JudithSkudelny,fdp,Skudelny,Judith,"[17, 19]",Bund,Baden-Württemberg,103,9:49
+349,3034092143,9.826282051282051,80123,michael_g_link,fdp,Link,Michael Georg,"[16, 17, 19]",Bund,Baden-Württemberg,68,9:50
+350,28446356,9.838372093023253,80608,VolkerUllrich,cducsu,Ullrich,Volker,"[18, 19]",Bund,Bavaria,206,9:50
+351,934029228886065152,9.84781420765027,80821,Amira_M_Ali,linke,Mohamed Ali,Amira,[19],Bund,Lower Saxony,145,9:51
+352,863657874941255684,9.85919540229885,80834,S_Muenzenmaier,afd,Münzenmaier,Sebastian,[19],Bund,Rheinland-Pfalz,176,9:52
+353,866924100,9.869607843137256,80865,ulschzi,afd,Schielke-Ziesing,Ulrike,[19],Bund,Mecklenburg-Vorpommern,355,9:52
+354,1028440310,9.883333333333333,80510,arnoklare,spd,Klare,Arno,"[18, 19]",Bund,North Rhine-Westphalia,24,9:53
+355,17535941,9.897101449275361,80712,christianduerr,fdp,Dürr,Christian,[19],Bund,Lower Saxony,277,9:54
+356,988765113606918144,9.931349206349207,80801,ulrichlechte,fdp,Lechte,Ulrich,[19],Bund,Bavaria,153,9:56
+357,47375691,9.94127906976744,80392,SWagenknecht,linke,Wagenknecht,Sahra,"[17, 18, 19]",Bund,North Rhine-Westphalia,182,9:56
+358,916950563815870464,9.943333333333333,80713,HartmutEbbing,fdp,Ebbing,Hartmut,[19],Bund,Berlin,70,9:56
+359,143351769,9.94621212121212,80805,NikolasLoebel,cducsu,Löbel,Nikolas,[19],Bund,Baden-Württemberg,59,9:56
+360,2306519694,9.973863636363639,80387,MarkusTressel,gruene,Tressel,Markus,"[17, 18, 19]",Bund,Saarland,118,9:57
+361,64159881,9.976666666666668,80639,CPetryMdB,spd,Petry,Christian,"[18, 19]",Bund,Saarland,10,9:59
+362,738731811380076544,9.992982456140352,80103,josip_juratovic,spd,Juratovic,Josip,"[16, 17, 18, 19]",Bund,Baden-Württemberg,73,9:60
+363,4866955749,9.994444444444445,80595,StefingerMdB,cducsu,Stefinger,Wolfgang,"[18, 19]",Bund,Bavaria,15,9:60
+364,332264734,9.995652173913042,80084,HeikeHaensel,linke,Hänsel,Heike,"[16, 17, 18, 19]",Bund,Baden-Württemberg,131,9:60
+365,4503658823,9.999358974358975,80921,Witt_Uwe,afd,Witt,Uwe,[19],Bund,North Rhine-Westphalia,91,9:60
+366,1530171613,10.011538461538462,80923,GydeJ,fdp,Jensen,Gyde,[19],Bund,Schleswig-Holstein,228,10:01
+367,4557858142,10.014728682170542,80630,ZdebelHubertus,linke,Zdebel,Hubertus,"[18, 19]",Bund,North Rhine-Westphalia,88,10:01
+368,910878654535749632,10.016666666666666,80684,andreasbleckmdb,afd,Bleck,Andreas,[19],Bund,Rheinland-Pfalz,136,10:01
+369,959059951523106816,10.035395189003438,80896,FrStraetmanns,linke,Straetmanns,Friedrich,[19],Bund,North Rhine-Westphalia,464,10:02
+370,868762469115846657,10.04572649572649,80819,CorinnaMiazga,afd,Miazga,Corinna,[19],Bund,Bavaria,203,10:03
+371,3292982985,10.076190476190483,80118,Karl_Lauterbach,spd,Lauterbach,Karl,"[16, 17, 18, 19]",Bund,North Rhine-Westphalia,1833,10:05
+372,992808439,10.077777777777778,80619,GabiWeberSPD,spd,Weber,Gabi,"[18, 19]",Bund,Rheinland-Pfalz,5,10:05
+373,872663038805016576,10.08030303030303,80755,Martin_Hess_AfD,afd,Hess,Martin,[19],Bund,Baden-Württemberg,68,10:05
+374,1001837201276235777,10.089675516224194,80666,RenataAlt_MdB,fdp,Alt,Renata,[19],Bund,Baden-Württemberg,278,10:05
+375,2837971145,10.103777777777777,77866,UllaJelpke,linke,Jelpke,Ulla,"[12, 13, 14, 16, 17, 18, 19]",Bund,North Rhine-Westphalia,197,10:06
+376,4121053541,10.108333333333333,80772,Marc_Jongen,afd,Jongen,Marc,[19],Bund,Baden-Württemberg,20,10:06
+377,133770069,10.111666666666666,80621,anjaweisgerber,cducsu,Weisgerber,Anja,"[18, 19]",Bund,Bavaria,27,10:07
+378,4249342037,10.133333333333333,80797,MichaelKuffer,cducsu,Kuffer,Michael,[19],Bund,Bavaria,6,10:08
+379,150188536,10.14057971014493,79943,markuskurthmdb,gruene,Kurth,Markus,"[15, 16, 17, 18, 19]",Bund,North Rhine-Westphalia,56,10:08
+380,825019912083038208,10.172222222222222,80890,katrin_staffler,cducsu,Staffler,Katrin,[19],Bund,Bavaria,34,10:10
+381,46480553,10.180303030303032,80275,UweKekeritz,gruene,Kekeritz,Uwe,"[17, 18, 19]",Bund,Bavaria,122,10:11
+382,719975730784956416,10.185135135135134,80872,Schneider_AfD,afd,Schneider,Jörg,[19],Bund,North Rhine-Westphalia,178,10:11
+383,96783215,10.206140350877195,79801,schneidercar,spd,Schneider,Carsten,"[14, 15, 16, 17, 18, 19]",Bund,Thuringia,228,10:12
+384,87281380,10.209064327485379,80269,AndrejHunko,linke,Hunko,Andrej,"[17, 18, 19]",Bund,North Rhine-Westphalia,245,10:13
+385,898597063444877313,10.214285714285712,80789,koehler_fdp,fdp,Köhler,Lukas,[19],Bund,Bavaria,327,10:13
+386,1370491088,10.22037037037037,80475,MarkHauptmann,cducsu,Hauptmann,Mark,"[18, 19]",Bund,Thuringia,42,10:13
+387,4429947807,10.22371794871795,80715,ElsnervonGronow,afd,Elsner von Gronow,Berengar,[19],Bund,North Rhine-Westphalia,76,10:13
+388,2527808433,10.270542635658913,80835,ZaklinNastic,linke,Nastic,Zaklin,[19],Bund,Hamburg,210,10:16
+389,39938182,10.273333333333333,80352,TSchipanski,cducsu,Schipanski,Tankred,"[17, 18, 19]",Bund,Thuringia,245,10:16
+390,28087038,10.277777777777777,80885,franksitta,fdp,Sitta,Frank,[19],Bund,Saxony-Anhalt,29,10:17
+391,989145249682526213,10.346296296296295,80915,NicoleWestig,fdp,Westig,Nicole,[19],Bund,North Rhine-Westphalia,62,10:21
+392,884382990,10.356862745098042,80181,MarcusWeinberg,cducsu,Weinberg,Marcus,"[16, 17, 18, 19]",Bund,Hamburg,98,10:21
+393,845213960060243968,10.373333333333331,80577,NinaScheer_SPD,spd,Scheer,Nina,"[18, 19]",Bund,Schleswig-Holstein,16,10:22
+394,36329898,10.374999999999998,80066,BurkertMartin,spd,Burkert,Martin,"[16, 17, 18, 19]",Bund,Bavaria,10,10:22
+395,904304932257492992,10.411111111111111,80692,Brehm_inNBGNord,cducsu,Brehm,Sebastian,[19],Bund,Bavaria,16,10:25
+396,20986770,10.425641025641028,77212,Diether_Dehm,linke,Dehm,Diether,"[12, 16, 17, 18, 19]",Bund,Lower Saxony,95,10:26
+397,179216369,10.438888888888888,80676,jensbeeck,fdp,Beeck,Jens,[19],Bund,Lower Saxony,19,10:26
+398,1043288618,10.459259259259259,80471,MetinHakverdi,spd,Hakverdi,Metin,"[18, 19]",Bund,Hamburg,207,10:28
+399,3408940048,10.467499999999998,80838,Jan_Nolte_AfD,afd,Nolte,Jan Ralf,[19],Bund,Hesse,90,10:28
+400,935815000006053888,10.503703703703701,80683,MBiadaczMdB,cducsu,Biadacz,Marc,[19],Bund,Baden-Württemberg,124,10:30
+401,23296367,10.508333333333333,80774,Ingmar_Jung,cducsu,Jung,Ingmar,[19],Bund,Hesse,2,10:30
+402,20534846,10.50925925925926,80008,gero_storjohann,cducsu,Storjohann,Gero,"[15, 16, 17, 18, 19]",Bund,Schleswig-Holstein,28,10:31
+403,954049866283483136,10.516666666666667,80814,TillMansmann,fdp,Mansmann,Till,[19],Bund,Hesse,26,10:31
+404,3242322815,10.527777777777779,80714,Thomas_Ehrhorn,afd,Ehrhorn,Thomas,[19],Bund,Lower Saxony,10,10:32
+405,4724923756,10.53888888888889,79912,HajdukBundestag,gruene,Hajduk,Anja,"[15, 16, 18, 19]",Bund,Hamburg,6,10:32
+406,748851762,10.581250000000002,80221,MWBirkwald,linke,Birkwald,Matthias W.,"[17, 18, 19]",Bund,North Rhine-Westphalia,90,10:35
+407,739531034761498624,10.6,80765,Leif_Erik_Holm,afd,Holm,Leif-Erik,[19],Bund,Mecklenburg-Vorpommern,29,10:36
+408,1524735194,10.999999999999998,80571,crueffer,gruene,Rüffer,Corinna,"[18, 19]",Bund,Rheinland-Pfalz,23,10:60
+409,774308243124391937,11.008333333333333,80851,Paul_Podolay,afd,Podolay,Paul Viktor,[19],Bund,Bavaria,16,11:00
+410,38645930,11.056666666666667,79794,edrossmann,spd,Rossmann,Ernst Dieter,"[14, 15, 16, 17, 18, 19]",Bund,Schleswig-Holstein,10,11:03
+411,3376953843,11.094444444444443,80430,matthiasbartke,spd,Bartke,Matthias,"[18, 19]",Bund,Hamburg,37,11:06
+412,786498202832822272,11.188888888888888,80418,HellmichMdB,spd,Hellmich,Wolfgang,"[17, 18, 19]",Bund,North Rhine-Westphalia,18,11:11
+413,1356753444,11.358333333333334,80873,jschraps,spd,Schraps,Johannes,[19],Bund,Lower Saxony,8,11:22
+414,928974816220254208,11.483333333333333,80282,axel_knoerig,cducsu,Knoerig,Axel,"[17, 18, 19]",Bund,Lower Saxony,1,11:28
+415,160906608,11.65,79715,Axel_Fischer,cducsu,Fischer,Axel E.,"[14, 15, 16, 17, 18, 19]",Bund,Baden-Württemberg,3,11:39
+416,3852561082,11.733333333333333,80527,YvonneMagwas,cducsu,Magwas,Yvonne,"[18, 19]",Bund,Saxony,5,11:44
