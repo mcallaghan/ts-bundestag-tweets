@@ -1,0 +1,12 @@
+digital(e|er|en) bildung	digitales
+digital(e|er|en) verwaltung	digitales
+5g MINUS corona OR pandemie OR covid	digitales	
+automatisier(en|t|ung)	digitales	
+auto MINUS matisier	verkehr
+beruf MINUS en  	arbeit ## (also nicht "berufen", aber "der beruf")
+vereint(e|en) nationen	außenpolitik
+rüstung MINUS "ent" davor 	außenpolitik (also ohne ent am anfang, so that "Entrüstung" is not counted but armour is :))
+digitale * ämter 	digitales (digitales finanzamt, digitale bürgerämter usw.)
+familien MINUS Opfer MINUS Angehörige 	familie (so that condolescences are ruled out - "unser gedanken sind bei den opfern und ihren familien" etc.)
+bauen*bauen*bauen 	wohnen ("bauen, bauen, bauen", "bauenbauenbauen", "bauen bauen bauen")
+gewalt MINUS vierte OR dritte 	gewalt
